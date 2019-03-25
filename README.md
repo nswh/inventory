@@ -1,20 +1,17 @@
 ## SEALS Genomics Analysis Pipeline Inverntory List
 
-You can use the [editor on GitHub](https://github.com/nswh/inventory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Primary Pipelie
 
-[GAIA](http://192.168.106.132:3838/myapp/)
-[GAIA - AGRF](http://192.168.106.132:3838/myapp_agrf/)
-[Quality Metrics](http://192.168.106.199:3838/qc/) PubMed Search is HERE! 
+1. [GAIA](http://192.168.106.132:3838/myapp/)
+2. [GAIA - AGRF](http://192.168.106.132:3838/myapp_agrf/)
+3. [Quality Metrics](http://192.168.106.199:3838/qc/) PubMed Search is HERE! 
 
 ### Sandbox
 
-[GAIA](http://192.168.106.143:3838/myapp/) PubMed Search is HERE! 
-[GAIA - AGRF](http://192.168.106.143:3838/myapp_agrf/) PubMed Search is HERE! 
-[Quality Metrics](http://192.168.106.201:3838/qc/) PubMed Search is HERE! 
+1. [GAIA](http://192.168.106.143:3838/myapp/) PubMed Search is HERE! 
+2. [GAIA - AGRF](http://192.168.106.143:3838/myapp_agrf/) PubMed Search is HERE! 
+3. [Quality Metrics](http://192.168.106.201:3838/qc/) PubMed Search is HERE! 
 
 ### Standalone PubMed search
 
