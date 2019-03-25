@@ -3,15 +3,15 @@
 
 ### Primary Pipelie - internal only
 
-1. [GAIA](http://192.168.106.132:3838/myapp/)
-2. [GAIA - AGRF](http://192.168.106.132:3838/myapp_agrf/)
-3. [Quality Metrics](http://192.168.106.199:3838/qc/) PubMed Search is HERE! 
+1. [Genomics Annotation Interpretation Analysis pipeline](http://192.168.106.132:3838/myapp/)
+2. [Genomics Annotation Interpretation Analysis pipeine - AGRF](http://192.168.106.132:3838/myapp_agrf/)
+3. [Quality Metrics Pipeline](http://192.168.106.199:3838/qc/) (PubMed Search is HERE!)
 
 ### Sandbox - internal only
 
-1. [GAIA](http://192.168.106.143:3838/myapp/) PubMed Search is HERE! 
-2. [GAIA - AGRF](http://192.168.106.143:3838/myapp_agrf/) PubMed Search is HERE! 
-3. [Quality Metrics](http://192.168.106.201:3838/qc/) PubMed Search is HERE! 
+1. [Genomics Annotation Interpretation Analysis pipeline](http://192.168.106.143:3838/myapp/) (PubMed Search is HERE!)
+2. [Genomics Annotation Interpretation Analysis pipeline - AGRF](http://192.168.106.143:3838/myapp_agrf/) (PubMed Search is HERE!)
+3. [Quality Metrics Pipeline](http://192.168.106.201:3838/qc/) (PubMed Search is HERE!)
 
 ### Standalone PubMed search - both internal & external
 
