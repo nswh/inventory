@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## SEALS Genomics Analysis Pipeline Inverntory List
 
 You can use the [editor on GitHub](https://github.com/nswh/inventory/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Primary Pipelie
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[GAIA](http://192.168.106.132:3838/myapp/)
+[GAIA - AGRF](http://192.168.106.132:3838/myapp_agrf/)
+[Quality Metrics](http://192.168.106.199:3838/qc/) PubMed Search is HERE! 
 
-```markdown
-Syntax highlighted code block
+### Sandbox
 
-# Header 1
-## Header 2
-### Header 3
+[GAIA](http://192.168.106.143:3838/myapp/) PubMed Search is HERE! 
+[GAIA - AGRF](http://192.168.106.143:3838/myapp_agrf/) PubMed Search is HERE! 
+[Quality Metrics](http://192.168.106.201:3838/qc/) PubMed Search is HERE! 
 
-- Bulleted
-- List
+### Standalone PubMed search
 
-1. Numbered
-2. List
+[PubMed Search](https://zhucius.shinyapps.io/pubmed/) 25 hours per month. Use only for Home Work or any of the above carshes. 
 
-**Bold** and _Italic_ and `Code` text
+----------------------------------------------------------------------------------------------------------------------------
+### Error Log Form Entry
 
-[Link](url) and ![Image](src)
-```
+[Please Log the Error HERE](https://forms.gle/1QHq86jYwpFt8qqY8)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nswh/inventory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am the bottom line... 
