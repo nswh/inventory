@@ -5,7 +5,7 @@
 
 1. [Genomics Annotation Interpretation Analysis pipeline](http://192.168.106.132:3838/myapp/)
 2. [Genomics Annotation Interpretation Analysis pipeine - AGRF](http://192.168.106.132:3838/myapp_agrf/)
-3. [Quality Metrics Pipeline](http://192.168.106.199:3838/qc/) (PubMed Search is HERE!)
+3. [Quality Metrics Pipeline](http://192.168.106.199:3838/qc/) (offline 26 March 2019, PubMed Search is HERE!)
 
 ### Sandbox - internal only
 
