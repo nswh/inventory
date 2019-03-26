@@ -1,7 +1,7 @@
 ## SEALS Genomics Analysis Pipeline Inverntory List
 
 
-### Primary Pipelie - internal only
+### Primary Pipeline - internal only
 
 1. [Genomics Annotation Interpretation Analysis pipeline](http://192.168.106.132:3838/myapp/)
 2. [Genomics Annotation Interpretation Analysis pipeine - AGRF](http://192.168.106.132:3838/myapp_agrf/)
