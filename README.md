@@ -15,9 +15,9 @@
 
 ### Standalone PubMed search - both internal & external
 
-[PubMed Search 1](https://zhucius.shinyapps.io/pubmed/) 
-[PubMed Search 2](https://zhucius.shinyapps.io/pubmed_parallel/)
-25 hours per month. Use only for Home Work or any of the above crashes. 
+#### [PubMed Search 1](https://zhucius.shinyapps.io/pubmed/) 
+#### [PubMed Search 2](https://zhucius.shinyapps.io/pubmed_parallel/)
+#### 25 hours per month. Use only for Home Work or any of the above crashes. 
 
 ----------------------------------------------------------------------------------------------------------------------------
 ### Error Log Form Entry - both internal & external
