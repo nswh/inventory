@@ -15,9 +15,7 @@
 
 ### Standalone PubMed search - both internal & external
 
-[PubMed Search 1](https://zhucius.shinyapps.io/pubmed/) 
-
-[PubMed Search 2](https://zhucius.shinyapps.io/pubmed_parallel/)
+[PubMed Search](https://sealsgenetics.shinyapps.io/PubMedSearch/). Thanks Guus! 
 
 25 hours per month. Use only for Home Work or any of the above crashes. 
 
