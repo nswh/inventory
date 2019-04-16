@@ -19,9 +19,9 @@
 ----------------------------------------------------------------------------------------------------------------------------
 ### Error Log Form Entry - both internal & external
 
-[Please Log the Error HERE](https://forms.gle/1QHq86jYwpFt8qqY8)
+[Please Log the Error HERE](https://forms.gle/1QHq86jYwpFt8qqY8). Please DO NOT type in patient information! 
 
-Please DO NOT type in patient information! 
+
 
 
 I am the bottom line... 
