@@ -18,12 +18,8 @@
 
 Please only use the external PubMed Search when working from home or if the internal one becomes unresponsive.
 
+
 ----------------------------------------------------------------------------------------------------------------------------
 ### Error Log Form Entry - both internal & external
 
 [Please Log the Error HERE](https://forms.gle/1QHq86jYwpFt8qqY8). Please DO NOT type in patient information! 
-
-
-
-
-I am the bottom line... 
