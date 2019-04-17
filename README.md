@@ -12,9 +12,11 @@
 
 ### Standalone PubMed search - both internal & external
 
-[new PubMed Search](https://sealsgenetics.shinyapps.io/PubMedSearch/)
+[PubMed Search (internal; unlimited)](http://192.168.106.146:3838/PubMedSearch/)
 
-25 hours per month. Use only for Home Work or any of the above crashes. 
+[PubMed Search (external; 25 hrs/mnth)](https://sealsgenetics.shinyapps.io/PubMedSearch/)
+
+Please only use the external PubMed Search when working from home or if the internal one becomes unresponsive.
 
 ----------------------------------------------------------------------------------------------------------------------------
 ### Error Log Form Entry - both internal & external
