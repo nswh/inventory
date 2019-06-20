@@ -8,7 +8,7 @@
 2. [Genomics Annotation Interpretation Analysis pipeine (GAIA) - AGRF](http://192.168.106.132:3838/myapp_agrf/)
 
 3. [Quality Metrics Pipeline](http://192.168.106.199:3838/qc/)
-4. [sandbox Quality Metrics Pipeline](http://192.168.106.201:3838/qc/)
+4. [sandbox Quality Metrics Pipeline](http://192.168.106.201:3838/qc/) For validation purpose. 
 
 
 ### Standalone PubMed search - both internal & external
