@@ -13,7 +13,7 @@
 
 ### Standalone PubMed search - both internal & external
 
-[PubMed Search (internal; unlimited)](http://192.168.106.146:3838/PubMedSearchV04/)
+[PubMed Search (internal; unlimited)](http://192.168.106.108:3838/PubMedSearchTest/)
 
 [PubMed Search (external; 25 hrs/mnth)](https://sealsgenetics.shinyapps.io/PubMedSearch/)
 
