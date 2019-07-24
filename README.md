@@ -1,7 +1,15 @@
 ## SEALS Genomics Analysis Pipeline Inverntory List
 
+### GAIA 2.3 - internal only
 
-### Primary Pipeline - internal only
+1. [Genomics Annotation Interpretation Analysis pipeline (GAIA)](http://192.168.106.108:3838/GAIA_proton/)
+
+2. [Genomics Annotation Interpretation Analysis pipeine (GAIA) - AGRF / Illumina](http://192.168.106.108:3838/GAIA_illumina/)
+
+3. [Quality Metrics Pipeline](http://192.168.106.199:3838/qc/)
+4. [sandbox Quality Metrics Pipeline](http://192.168.106.201:3838/qc/) For validation purpose. 
+
+### GAIA 2.2 - these links will be removed shortly
 
 1. [Genomics Annotation Interpretation Analysis pipeline (GAIA)](http://192.168.106.132:3838/myapp/)
 
