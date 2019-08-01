@@ -8,14 +8,9 @@
 
 3. [Quality Metrics Pipeline](http://192.168.106.199:3838/qc/)
 
-### GAIA 2.2 - these links will be removed shortly
+### GAIA 2.2 - for retrospective EPIC ID 
 
 1. [Genomics Annotation Interpretation Analysis pipeline (GAIA)](http://192.168.106.132:3838/myapp/)
-
-2. [Genomics Annotation Interpretation Analysis pipeine (GAIA) - AGRF](http://192.168.106.132:3838/myapp_agrf/)
-
-3. [Quality Metrics Pipeline](http://192.168.106.199:3838/qc/)
-
 
 ### Standalone PubMed search - both internal & external
 
