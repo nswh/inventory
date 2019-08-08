@@ -20,15 +20,36 @@
 
 Please only use the external PubMed Search when working from home or if the internal one becomes unresponsive.
 
+----------------------------------------------------------------------------------------------------------------------------
+## How can I access .bam files for AGRF samples?
+All AGRF data is located on the PromisePegasus storage array. To access those files, you need to "mount" this storage into your computer. The instructions for doing this differ per operating system
+
+### Windows
+You can mount PromisePegasus through the following steps:
+
+1. Open up a new Explorer window (the folder icon on the start bar)
+2. Go to “This PC”, Right click under Network locations and select “Add a network location”
+3. Click Next, then click on “Choose a custom network location” to highlight it before clicking Next again
+4. Type in the address `\\192.168.106.134\PromisePegasus\AGRF` and click Next.
+5. Enter credentials:
+      * username: `seals`
+      * password: `sealsgenetics`
+6. Choose a name for the folder (e.g. AGRF) and click Next. Click Finish.
+
+### Mac OSX
+
+You can mount PromisePegasus through the following steps:
+
+1. Open up a new Finder window (the smiley blue-and-white icon on the Dock)
+2. On the left side, locate "Tony's iMac Pro" and click it
+3. Under the logo of a display, click "Connect As..."
+4. Select "Registered User" and enter credentials:
+      * username: `seals`
+      * password: `sealsgenetics`
+5. Navigate to the "PromisePegaus > AGRF" folder
 
 ----------------------------------------------------------------------------------------------------------------------------
-### Error Log Form Entry - both internal & external
-
-[Please Log the Error HERE](https://forms.gle/1QHq86jYwpFt8qqY8). Please DO NOT type in patient information! 
-
-
-----------------------------------------------------------------------------------------------------------------------------
-### Where can I find backups of samples?
+## Where can I find backups of samples?
 
 | Disk    | From    | To      | Back up date | Intersect date | Notes                                                                                                                                                |
 |---------|---------|---------|--------------|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -44,3 +65,8 @@ Please only use the external PubMed Search when working from home or if the inte
 | Disk 9  | JUP_289 | JUP_348 | 15/10/18     | 2/11/18        |                                                                                                                                                      |
 | Disk 10 | JUP_354 | JUP_395 | 14/1/19      | -              | JUP_349 to JUP_353 Inclusive were not backed up due to poor data output as a result of underseeding of the Ion Chef template for each of those runs. |
 | Disk 11 | JUP_396 | JUP_405 | 29/1/19      | -              |                                                                                                                                                      |
+
+----------------------------------------------------------------------------------------------------------------------------
+### Error Log Form Entry - both internal & external
+
+[Please Log the Error HERE](https://forms.gle/1QHq86jYwpFt8qqY8). Please DO NOT type in patient information! 
