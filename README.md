@@ -1,5 +1,10 @@
 ## SEALS Genomics Analysis Pipeline Inverntory List
 
+### POWH BaseSpace
+
+[NSWHP Private Domain BaseSpace](https://nswhp-pl.aps2.sh.basespace.illumina.com/)
+Once log in, on top right corner, choose POWH (green tick) for workgroup, choose Personal for testing. 
+
 ### GAIA 2.3 - internal only
 
 1. [Genomics Annotation Interpretation Analysis pipeline (GAIA)](http://192.168.106.108:3838/GAIA_proton/)
