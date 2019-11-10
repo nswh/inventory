@@ -35,7 +35,7 @@ You can mount PromisePegasus through the following steps:
 1. Open up a new Explorer window (the folder icon on the start bar)
 2. Go to “This PC”, Right click under Network locations and select “Add a network location”
 3. Click Next, then click on “Choose a custom network location” to highlight it before clicking Next again
-4. Type in the address `\\192.168.106.134\PromisePegasus\AGRF` and click Next.
+4. Type in the address `\\192.168.106.110\PromisePegasus\AGRF` and click Next.
 5. Enter credentials:
       * username: `seals`
       * password: `sealsgenetics`
