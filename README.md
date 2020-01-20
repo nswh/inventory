@@ -21,8 +21,6 @@ Once log in, on top right corner, choose POWH (green tick) for workgroup, choose
 
 [PubMed Search (internal; unlimited)](http://192.168.106.108:3838/PubMedSearchTest/)
 
-[PubMed Search with hotfix (internal; unlimited)](http://192.168.106.108:3838/PubMedSearchTest_20200113/)
-
 [PubMed Search (external; 25 hrs/mnth)](https://sealsgenetics.shinyapps.io/PubMedSearch/)
 
 Please only use the external PubMed Search when working from home or if the internal one becomes unresponsive.
