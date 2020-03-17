@@ -9,6 +9,8 @@ Once log in, on top right corner, choose POWH (green tick) for workgroup, choose
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.0)](http://192.168.106.148:3838/gaia/)
 
+[Genomics Annotation Interpretation Analysis pipeline (GAIA hotfix)](http://192.168.106.134:3838/gaia/)
+
 ### GAIA 2.3 - internal only
 
 1. [Genomics Annotation Interpretation Analysis pipeline (GAIA)](http://192.168.106.108:3838/GAIA_proton/)
@@ -16,10 +18,6 @@ Once log in, on top right corner, choose POWH (green tick) for workgroup, choose
 2. [Genomics Annotation Interpretation Analysis pipeine (GAIA) - AGRF / Illumina](http://192.168.106.108:3838/GAIA_illumina/)
 
 3. [Quality Metrics Pipeline](http://192.168.106.199:3838/qc/)
-
-### GAIA 2.2 - for retrospective EPIC ID 
-
-1. [Genomics Annotation Interpretation Analysis pipeline (GAIA)](http://192.168.106.132:3838/myapp/)
 
 ### Standalone PubMed search - both internal & external
 
