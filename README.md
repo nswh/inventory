@@ -4,7 +4,7 @@
 
 [NSWHP Private Domain BaseSpace](https://nswhp-pl.aps2.sh.basespace.illumina.com/)
 Once log in, on top right corner, choose POWH (green tick) for workgroup, choose Personal for testing. 
-Java Exception URL is 'https://basespace-launch-east.s3.amazonaws.com'
+Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 ### GAIA 3.0 - internal only for NovaSeq GRCh38/hg38
 
