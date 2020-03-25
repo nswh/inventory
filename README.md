@@ -26,6 +26,8 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 [PubMed Search hotfix (external; 25 hrs/mnth)](https://zhucius.shinyapps.io/PubMedSearchTest_hotfix/)
 
+[PubMed Search hotfix (external; unlimited; user's IP address registered)](http://54.252.191.141:3838/pubmedsearchtest/)
+
 Please only use the external PubMed Search when working from home or if the internal one becomes unresponsive.
 
 ----------------------------------------------------------------------------------------------------------------------------
