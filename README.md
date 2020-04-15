@@ -22,11 +22,11 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 ### Standalone PubMed search - both internal & external
 
-[PubMed Search hotfix (internal; unlimited)](http://192.168.106.108:3838/PubMedSearchTest_hotfix/)
+[PubMed Search (internal; unlimited)](http://192.168.106.108:3838/PubMedSearchTest/)
 
-[PubMed Search hotfix (external; 25 hrs/mnth)](https://zhucius.shinyapps.io/PubMedSearchTest_hotfix/)
+[PubMed Search (external; 25 hrs/mnth)](https://zhucius.shinyapps.io/PubMedSearchTest_hotfix/)
 
-[PubMed Search hotfix (external; unlimited; user's IP address registered)](http://54.252.191.141:3838/pubmedsearchtest/)
+[PubMed Search (external; unlimited; user's IP address registered)](http://54.252.191.141:3838/pubmedsearchtest/)
 
 Please only use the external PubMed Search when working from home or if the internal one becomes unresponsive.
 
