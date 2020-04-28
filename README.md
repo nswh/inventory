@@ -10,8 +10,6 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.0.3)](http://192.168.106.148:3838/gaia/)
 
-[GAIA 3.0.3 User Manual](https://nswhp-ranwick-genetics-gaia-docs303.readthedocs-hosted.com/en/latest/) (access with username registered with Admin add in the group)
-
 ### GAIA 2.3 - internal only
 
 1. [Genomics Annotation Interpretation Analysis pipeline (GAIA)](http://192.168.106.108:3838/GAIA_proton/)
