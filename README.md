@@ -72,7 +72,9 @@ You can mount PromisePegasus through the following steps:
 | Disk 8  | JUP_221 | JUP_288 | 5/6/18       | 13/6/18        |                                                                                                                                                      |
 | Disk 9  | JUP_289 | JUP_348 | 15/10/18     | 2/11/18        |                                                                                                                                                      |
 | Disk 10 | JUP_354 | JUP_395 | 14/1/19      | -              | JUP_349 to JUP_353 Inclusive were not backed up due to poor data output as a result of underseeding of the Ion Chef template for each of those runs. |
-| Disk 11 | JUP_396 | JUP_405 | 29/1/19      | -              |                                                                                                                                                      |
+| Disk 11 | JUP_396 | JUP_450 | 29/1/19      | -              | JUP_448 has reanalysis in the next disk. |                                                                                                                                                     | Disk 12 | JUP_451 | JUP_507 |              |                | JUP_448 reanalysis is in this disk. |
+| Disk 13 | JUP_543 | JUP_565 |              |                |
+| Disk 14 | JUP_566 | JUP_619 |              |                |
 
 ----------------------------------------------------------------------------------------------------------------------------
 ### Error Log Form Entry - both internal & external
