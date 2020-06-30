@@ -15,8 +15,8 @@ You can mount PromisePegasus through the following steps:
 1. Open up a new Explorer window (the folder icon on the start bar)
 2. Go to “This PC”, Right click under Network locations and select “Add a network location”
 3. Click Next, then click on “Choose a custom network location” to highlight it before clicking Next again
-4.   (1).  Type in the address `\\192.168.106.48\seals\Desktop\gaia-input` and click Next.
-     (2).  Type in the address `\\192.168.106.134\PromisePegasus\NovaSeq\Agilent` and click Next.
+4.        * Type in the address `\\192.168.106.48\seals\Desktop\gaia-input` and click Next.
+          * Type in the address `\\192.168.106.134\PromisePegasus\NovaSeq\Agilent` and click Next.
 5. Enter credentials:
       * username: `seals`
       * password: `sealsgenetics`
@@ -27,8 +27,8 @@ You can mount PromisePegasus through the following steps:
 You can mount PromisePegasus through the following steps:
 
 1. Open up a new Finder window (the smiley blue-and-white icon on the Dock)
-2.   (1) On the left side, locate "seals's iMac" and click it
-     (2) On the left side, locate "Tony's iMac Pro" and click it
+2.        * On the left side, locate "seals's iMac" and click it
+          * On the left side, locate "Tony's iMac Pro" and click it
 3. Under the logo of a display, click "Connect As..."
 4. Select "Registered User" and enter credentials:
       * username: `seals`
