@@ -6,6 +6,36 @@
 Once log in, on top right corner, choose POWH (green tick) for workgroup, choose Personal for testing. 
 Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
+## How can I access .bam files for NovaSeq samples when BaseSpace is down?
+All NovaSeq data is located on the PromisePegasus storage array and GAIA iMac. To access those files, you need to "mount" this storage into your computer. The instructions for doing this differ per operating system
+
+### Windows
+You can mount PromisePegasus through the following steps:
+
+1. Open up a new Explorer window (the folder icon on the start bar)
+2. Go to “This PC”, Right click under Network locations and select “Add a network location”
+3. Click Next, then click on “Choose a custom network location” to highlight it before clicking Next again
+4.   (1) Type in the address `\\192.168.106.48\seals\Desktop\gaia-input` and click Next.
+     (2) Type in the address `\\192.168.106.134\PromisePegasus\NovaSeq\Agilent` and click Next.
+5. Enter credentials:
+      * username: `seals`
+      * password: `sealsgenetics`
+6. Choose a name for the folder (e.g. POWH_2X-04, 20200522\POWH_2X-02) and click Next. Click Finish.
+
+### Mac OSX
+
+You can mount PromisePegasus through the following steps:
+
+1. Open up a new Finder window (the smiley blue-and-white icon on the Dock)
+2.   (1) On the left side, locate "seals's iMac" and click it
+     (2) On the left side, locate "Tony's iMac Pro" and click it
+3. Under the logo of a display, click "Connect As..."
+4. Select "Registered User" and enter credentials:
+      * username: `seals`
+      * password: `sealsgenetics`
+5.   (1) Navigate to the "seals > Desktop > gaia-input" folder
+     (2) Navigate to the "PromisePegaus > NovaSeq > Agilent" folder
+
 ### GAIA 3.1.0 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.1.0)](http://192.168.106.148:3838/gaia/)
