@@ -33,8 +33,8 @@ You can mount PromisePegasus through the following steps:
 4. Select "Registered User" and enter credentials:
       * username: `seals`
       * password: `sealsgenetics`
-5.   (1) Navigate to the "seals > Desktop > gaia-input" folder
-     (2) Navigate to the "PromisePegaus > NovaSeq > Agilent" folder
+5.       * Navigate to the "seals > Desktop > gaia-input" folder
+         * Navigate to the "PromisePegaus > NovaSeq > Agilent" folder
 
 ### GAIA 3.1.0 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page.html)?
 
