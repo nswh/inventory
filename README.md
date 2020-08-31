@@ -6,7 +6,14 @@
 Once log in, on top right corner, choose POWH (green tick) for workgroup, choose Personal for testing. 
 Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
-### GAIA 3.1.0 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page.html)?
+### GAIA 3.1.1 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.1.1.html)?
+
+[Genomics Annotation Interpretation Analysis pipeline (GAIA 3.1.0)](http://192.168.106.148:4848/gaia/)
+
+For databases: 
+*   POWH_20-93 onwards
+
+### GAIA 3.1.0 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.1.0.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.1.0)](http://192.168.106.148:3838/gaia/)
 
