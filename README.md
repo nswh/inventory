@@ -50,6 +50,8 @@ For databases:
 *   POWH_2X-01
 *   POWH_NovaSeq6000_20200424
 *   POWH_NovaSeq6000_20200409
+*   POWH_NovaSeq6000_20200228
+*   20200103
 
 ### GAIA 2.3 - internal only
 
