@@ -11,14 +11,14 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.5)](http://192.168.106.148:7881/gaia/)
 
 For databases: 
-*   POWH_20-604 onwards
+*   POWH_20-604 onwards and POWH_20-490
 
 ### GAIA 3.2.4 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.4.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.4)](http://192.168.106.148:7880/gaia/)
 
 For databases: 
-*   POWH_20-567 onwards
+*   POWH_20-567 onwards and MM portion of POWH_20-514
 
 ### GAIA 3.2.3 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.3.html)?
 
