@@ -9,5 +9,8 @@ Update ClinVar.
 Merge SpliceAI columns into one.
 fix syntex
 Change seperator from & to | for SpliceAI.
+Fix OMIM phenotype missing problem. 
+Fix HGMD pmid truncated by semi-colon problem. 
+Updated OMIM, HGMD.
 
 [back](./)
