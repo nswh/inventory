@@ -12,4 +12,6 @@ Replace QC metrics table from validation run 20210103 with 199 Control Cohort.
 
 Update MasterMind VCF resource 2021.08.03
 
+Update HGMD database resource 2021 Q2
+
 [back](./)
