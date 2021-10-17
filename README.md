@@ -7,11 +7,20 @@ Once log in, on top right corner, choose POWH (green tick) for workgroup, choose
 Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 
+### GAIA 3.3.2 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.2.html)?
+
+[LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.2)](http://192.168.106.148:7887/gaia/)
+
+[CLOUD - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.2)](http://pilot.gaia.nswhp.com.au:5860/gaia/)
+
+For databases: 
+*   POWH_21-1434_3 onwards
+
 ### GAIA 3.3.1 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.1.html)?
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.1)](http://192.168.106.148:7886/gaia/)
 
-[CLOUD - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.1)](http://pilot.gaia.nswhp.com.au:5858/gaia/)
+[CLOUD - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.1)](http://pilot.gaia.nswhp.com.au:5859/gaia/)
 
 For databases: 
 *   POWH_21-1262 onwards
