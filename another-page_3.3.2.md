@@ -5,6 +5,7 @@ GAIA v3.3.2
 * gaia-shiny
 
 Updated to HGMDQ3
+
 Added gnomAD r3.1.1 genomes in the filtering logic. 
 
 The logic is 
