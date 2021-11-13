@@ -11,7 +11,7 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.2)](http://192.168.106.148:7887/gaia/)
 
-[CLOUD - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.2)](http://pilot.gaia.nswhp.com.au:5860/gaia/)
+[CLOUD - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.2)](http://pilot.gaia.nswhp.com.au:5860/)
 
 For databases: 
 *   POWH_21-1434_3 onwards
