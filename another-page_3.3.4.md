@@ -12,7 +12,7 @@ Update ClinVar to 2021.11.13
 
 * gaia-shiny
 
-Fix the bug of calculating gnomAD AF: (AF_exome * samplesize_exome + AF_genome * samplesize_genome ) / totalsamplesize. Refer to https://gnomad.broadinstitute.org/downloads The SQL Syntex is: 
+Fix the bug of calculating gnomAD AF: (AF_exome * samplesize_exome + AF_genome * samplesize_genome ) / totalsamplesize. Refer to [gnomAD sample size](https://gnomad.broadinstitute.org/downloads) The SQL Syntex is: 
 ```
 paste("(CAST(gnomad_af as decimal) * 251496 + CAST(gnomad_genomes_af as decimal) * 152312) / 403808 <= %s AND ",
            "(CAST(gnomad_afr_af as decimal) * 251496 + CAST(gnomad_genomes_afr_af as decimal) * 152312) / 403808 <= %s AND ",
