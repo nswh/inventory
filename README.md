@@ -16,6 +16,8 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 For databases: 
 *   POWH_21-xxxx onwards
+*   CMGbroad
+*   WGS_validation30X
 
 ### GAIA 3.3.4 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.4.html)?
 
