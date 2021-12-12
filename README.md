@@ -17,7 +17,7 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 [CLOUD PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](https://gaia.nswhp.com.au/)
 
 For databases: 
-*   POWH_21-xxxx onwards
+*   POWH_21-1749 onwards
 *   CMGbroad
 *   WGS_validation30X
 
