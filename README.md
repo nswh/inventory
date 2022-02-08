@@ -161,6 +161,8 @@ For databases:
 
 [PubMed Search (internal; unlimited)](http://192.168.106.108:3838/PubMedSearchTest/)
 
+[PubMed Search (CLOUD; unlimited)](http://pilot.gaia.nswhp.com.au:3838/PubMedSearchTest/)
+
 [PubMed Search (external; 25 hrs/mnth)](https://zhucius.shinyapps.io/PubMedSearchTest_hotfix/)
 
 Please only use the external PubMed Search when working from home or if the internal one becomes unresponsive.
