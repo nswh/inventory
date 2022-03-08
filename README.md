@@ -12,9 +12,9 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://192.168.106.148:7890/)
 
-[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://pilot.gaia.nswhp.com.au:5863/)
+[CLOUD DEVELOPMENT for WES - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://pilot.gaia.nswhp.com.au:5863/)
 
-[CLOUD PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](https://gaia.nswhp.com.au/)
+[CLOUD PRODUCTION for WGS only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](https://gaia.nswhp.com.au/)
 
 For databases: 
 *   POWH_21-1749 onwards
