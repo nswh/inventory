@@ -6,9 +6,16 @@
 Once log in, on top right corner, choose POWH (green tick) for workgroup, choose Personal for testing. 
 Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
+### GAIA 3.3.6 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.6.html)?
 
+[LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://192.168.106.148:7891/)
 
-### GAIA 3.3.5 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.5.html)?
+[CLOUD DEVELOPMENT for WES - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.6)](http://pilot.gaia.nswhp.com.au:5864/)
+
+For databases: 
+*   after POWH_22-603
+
+### GAIA 3.3.5 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.5.html)?
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://192.168.106.148:7890/)
 
@@ -21,7 +28,7 @@ For databases:
 *   CMGbroad
 *   WGS_validation30X
 
-### GAIA 3.3.4 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.4.html)?
+### GAIA 3.3.4 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.4.html)?
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.4)](http://192.168.106.148:7889/)
 
@@ -30,7 +37,7 @@ For databases:
 For databases: 
 *   POWH_21-1604 onwards
 
-### GAIA 3.3.3 - internal only for NovaSeq GRCh38/hg38
+### GAIA 3.3.3 - for NovaSeq GRCh38/hg38
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.3)](http://192.168.106.148:7888/)
 
