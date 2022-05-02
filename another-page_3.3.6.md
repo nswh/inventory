@@ -1,6 +1,6 @@
 ## What's New?
 
-GAIA v3.3.5
+GAIA v3.3.6
 
 * gaia-cromwell
 
