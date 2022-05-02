@@ -13,7 +13,7 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 [CLOUD DEVELOPMENT for WES - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.6)](http://pilot.gaia.nswhp.com.au:5864/)
 
 For databases: 
-*   after POWH_22-603
+*   after POWH_22-603, TWIST validation 3 onwards
 
 ### GAIA 3.3.5 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.5.html)?
 
