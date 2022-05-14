@@ -14,7 +14,7 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 For databases: 
 *   POWH_22-624 onwards
-*   TWIST validation 1 and 3 onwards
+*   TWIST validation 1 and TWIST validation 3
 
 ### GAIA 3.3.5 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.5.html)?
 
