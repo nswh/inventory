@@ -10,11 +10,12 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.6)](http://192.168.106.148:5864/)
 
-[CLOUD DEVELOPMENT for WES - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.6)](http://pilot.gaia.nswhp.com.au:5864/)
+[CLOUD DEVELOPMENT for WES and WGS - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.6)](http://pilot.gaia.nswhp.com.au:5864/)
 
 For databases: 
 *   POWH_22-624 onwards
 *   TWIST validation 1 and TWIST validation 3
+*   WGS of NA12878, NA24385/HG002 for RPA testing
 
 ### GAIA 3.3.5 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.5.html)?
 
