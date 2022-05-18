@@ -4,6 +4,10 @@ GAIA v3.3.6
 
 * gaia-cromwell
 
+Fix REVEL scores from GRCh37 to GRCh38.
+
+Change makedb Docker image to python3
+
 Output versioning.
 
 Updated OMIM to 20220429; Updated MasterMind to 2022.01.06; Updated HGMD to 2022.1	
@@ -11,6 +15,10 @@ Updated OMIM to 20220429; Updated MasterMind to 2022.01.06; Updated HGMD to 2022
 Updated basline for xhmm, decon CNV calling.
 
 * gaia-shiny
+
+Add SLHD folder for RPA.
+
+Fix the sequencing metrics displaying error for TWIST validation.
 
 Add 'Non-Syndromic Hearing Loss' gene list.
 
