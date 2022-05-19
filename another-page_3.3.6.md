@@ -32,6 +32,6 @@ Fix the Linux limit of size of command buffer by splitting the SQL query into tw
 
 remove the test mode
 
-Fix overlap gene symbol issue.
+Fix overlap gene symbol issue. (Known bug is cannot handle > 700 gene symbols in the input list. )
 
 [back](./)
