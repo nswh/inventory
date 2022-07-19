@@ -10,6 +10,8 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.7)](http://192.168.106.148:5865/)
 
+Input tolerance length: nil
+
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.7)](http://pilot.gaia.nswhp.com.au:5865/)
 
 For databases: 
@@ -18,6 +20,8 @@ For databases:
 ### GAIA 3.3.6 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.6.html)?
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.6)](http://192.168.106.148:5864/)
+
+Input tolerance length: gene symbol < 900; genomic coordinate < 900
 
 [CLOUD DEVELOPMENT for WES and WGS - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.6)](http://pilot.gaia.nswhp.com.au:5864/)
 
@@ -29,6 +33,8 @@ For databases:
 ### GAIA 3.3.5 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.5.html)?
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://192.168.106.148:7890/)
+
+Input tolerance length: gene symbol < 12000; genomic coordinate < 900
 
 [CLOUD DEVELOPMENT for WES - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://pilot.gaia.nswhp.com.au:5863/)
 
