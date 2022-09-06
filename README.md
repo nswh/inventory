@@ -16,6 +16,10 @@ Input tolerance length: nil
 
 For databases: 
 *   POWH_22-1009 onwards
+*   TWIST validation 1 to 5 (WES only, no Panel.)
+*   WES trio analysis training sets: GEN000114, GEN000124, GEN000227, GEN003079, GEN003194, GEN004090
+*   WES trio CNV analysis training sets: GEN002683 / Proband 21R549791T GAIA v3.3.0): Renal tubular dysgenesis in proband
+WES Trio 8 (GEN003053 / Proband 21R7985962 GAIA v3.3.1): Nephroniphthisis and cerebellar hypoplasia in proband
 
 ### GAIA 3.3.6 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.6.html)?
 
@@ -27,7 +31,6 @@ Input tolerance length: gene symbol < 900; genomic coordinate < 900
 
 For databases: 
 *   POWH_22-624 onwards
-*   TWIST validation 1 and TWIST validation 3
 *   WGS of NA12878, NA24385/HG002 for RPA testing
 
 ### GAIA 3.3.5 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.5.html)?
@@ -44,7 +47,6 @@ For databases:
 *   POWH_21-1749 onwards
 *   CMGbroad
 *   WGS_validation30X
-*   TWIST validation 2
 
 ### GAIA 3.3.4 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.4.html)?
 
