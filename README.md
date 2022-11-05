@@ -6,6 +6,14 @@
 Once log in, on top right corner, choose POWH (green tick) for workgroup, choose Personal for testing. 
 Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
+### GAIA 3.3.8 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.8.html)?
+
+[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.8)](http://pilot.gaia.nswhp.com.au:5866/)
+
+For databases: 
+*   TWIST validation 1 to 5
+*   EPIC ID
+
 ### GAIA 3.3.7 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.7.html)?
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.7)](http://192.168.106.148:5865/)
@@ -16,7 +24,6 @@ Input tolerance length: nil
 
 For databases: 
 *   POWH_22-1009 onwards
-*   TWIST validation 1 to 5 (WES only, no Panel.)
 *   WES trio analysis training sets: GEN000114, GEN000124, GEN000227, GEN003079, GEN003194, GEN004090
 *   WES trio CNV analysis training sets: GEN002683 / Proband 21R549791T GAIA v3.3.0): Renal tubular dysgenesis in proband
 WES Trio 8 (GEN003053 / Proband 21R7985962 GAIA v3.3.1): Nephroniphthisis and cerebellar hypoplasia in proband
