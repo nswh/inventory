@@ -8,7 +8,7 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 ### TEST ONLY! NOT FOR USE! GAIA 3.3.8 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.8.html)?
 
-[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.8)](http://pilot.gaia.nswhp.com.au:5866/)
+TEST ONLY! NOT FOR USE! [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.8)](http://pilot.gaia.nswhp.com.au:5866/)
 
 For databases: 
 *   TWIST validation 1 to 5
