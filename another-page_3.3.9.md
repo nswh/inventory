@@ -4,8 +4,8 @@ GAIA v3.3.9
 
 * gaia-shiny
 
-Fix ref_coverage_vc_metrics.csv column name.
+Update ClinVar20221211, MasterMind2022.10.02. 
 
-Update NovaSeq Control Cohort79 Mendelian Samples (37 Male, 42 Female)
+Replace MM CNV result with Intra Caller for TWIST panel.
 
 [back](./)
