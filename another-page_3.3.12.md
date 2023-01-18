@@ -10,4 +10,8 @@ Display QC metrics as default popup.
 
 Display TWIST's QC metrics.
 
+* gaia-shiny
+
+Hotfix of Reproductive_Carrier_Screening_MM_gene_list_v2.2
+
 [back](./)
