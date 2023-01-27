@@ -1,0 +1,15 @@
+## What's New?
+
+GAIA v3.3.12
+
+* gaia-cromwell
+
+Update to version 3.3.13
+
+HGMD to 2022 Q4	Update HGMD to 2022 Q4
+
+Test out S3 URL in sample_sheet.txt for makedb.	
+
+Split TWIST input,output to exome and panel respectively.
+
+[back](./)
