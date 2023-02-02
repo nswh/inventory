@@ -14,7 +14,7 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 For databases: 
 *   PTW_23_0116A onwards
-*   Duplicated PTW_22_1125A, PTW_22_1130A, PTW_22_1205A, and PTW_22_1212A as Joint Call not bringing back low quality variants that present in single sample VCF files. 
+*   Duplicated PTW_22_1125A, PTW_22_1130A, PTW_22_1205A, PTW_22_1212A, PTW_22_1212B, PTW_22_1219A, PTW_22_1219B_2, PTW_23_0102A, PTW_23_0102B and PTW_23_0109A as Joint Call not bringing back low quality variants that present in single sample VCF files. 
 
 ### GAIA 3.3.12 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.12.html)?
 
