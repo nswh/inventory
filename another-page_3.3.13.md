@@ -12,4 +12,11 @@ Test out S3 URL in sample_sheet.txt for makedb.
 
 Split TWIST input,output to exome and panel respectively.
 
+* gaia-shiny
+
+Add TWIST panel hotspot in the gene list dropdown menu.	
+
+Update ID/EE gene list.
+
+
 [back](./)
