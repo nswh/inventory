@@ -1,10 +1,10 @@
 ## What's New?
 
-GAIA v3.3.12
+GAIA v3.3.13
 
 * gaia-cromwell
 
-Update to version 3.3.13
+Fix REVEL score not dispalying issue by using VEP Plugin 109. 
 
 HGMD to 2022 Q4	Update HGMD to 2022 Q4
 
