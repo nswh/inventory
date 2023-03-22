@@ -14,6 +14,14 @@ Split TWIST input,output to exome and panel respectively.
 
 * gaia-shiny
 
+Display pedigree plot as no cut off long text in sample ID.		
+
+Rectify CFTR and AJ panel's genoimc coordinates as GRCh38/hg38.
+
+add Cleft gene list; rm old ID_EE and old Microcephaly gene lists	
+
+update Microcephaly gene list
+
 Add TWIST panel hotspot in the gene list dropdown menu.	
 
 Update ID/EE gene list.
