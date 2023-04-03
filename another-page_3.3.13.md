@@ -14,6 +14,12 @@ Split TWIST input,output to exome and panel respectively.
 
 * gaia-shiny
 
+Additional hotspot variants added in Jewish Panel and CFTR panel, Since run PTW_23_0320A_2	
+
+Added two genes in Cardiomyop_Dysrythmia_MBS.20230324.txt Cardiomyopathy_MBS.20230324.txt	
+
+Add Movement Disorders Dr Shekeeb Mohammad and is intended to be used for his patients.
+
 Display pedigree plot as no cut off long text in sample ID.		
 
 Rectify CFTR and AJ panel's genoimc coordinates as GRCh38/hg38.
