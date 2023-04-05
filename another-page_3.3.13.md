@@ -14,6 +14,8 @@ Split TWIST input,output to exome and panel respectively.
 
 * gaia-shiny
 
+Add Arterial Tortuosity gene list.
+
 Additional hotspot variants added in Jewish Panel and CFTR panel, Since run PTW_23_0320A_2	
 
 Added two genes in Cardiomyop_Dysrythmia_MBS.20230324.txt Cardiomyopathy_MBS.20230324.txt	
