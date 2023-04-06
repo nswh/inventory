@@ -16,42 +16,6 @@ For databases:
 *   PTW_23_0116A onwards
 *   Duplicated PTW_22_1125A, PTW_22_1130A, PTW_22_1205A, PTW_22_1212A, PTW_22_1212B, PTW_22_1219A, PTW_22_1219B_2, PTW_23_0102A, PTW_23_0102B and PTW_23_0109A as Joint Call not bringing back low quality variants that present in single sample VCF files. 
 
-### GAIA 3.3.12 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.12.html)?
-
-[LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.12)](http://192.168.106.148:5870/)
-
-[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.12)](http://pilot.gaia.nswhp.com.au:5870/)
-
-For databases: 
-*   PTW_23_0102A onwards
-
-### GAIA 3.3.11 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.11.html)?
-
-[LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.11)](http://192.168.106.148:5869/)
-
-[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.11)](http://pilot.gaia.nswhp.com.au:5869/)
-
-For databases: 
-*   PTW_22_1212A onwards
-
-### GAIA 3.3.10 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.10.html)?
-
-[LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.10)](http://192.168.106.148:5868/)
-
-[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.10)](http://pilot.gaia.nswhp.com.au:5868/)
-
-For databases: 
-*   PTW_22_1205A onwards
-
-### GAIA 3.3.9 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.9.html)?
-
-[LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.9)](http://192.168.106.148:5867/)
-
-[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.9)](http://pilot.gaia.nswhp.com.au:5867/)
-
-For databases: 
-*   PTW_22_1130A onwards
-
 ### GAIA 3.3.8 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.8.html)?
 
 [LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.8)](http://192.168.106.148:5866/)
@@ -61,7 +25,6 @@ For databases:
 For databases: 
 *   TWIST validation 1 to 5
 *   EPIC ID
-*   PTW_22_1125A onwards
 
 ### GAIA 3.3.7 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.7.html)?
 
