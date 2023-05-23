@@ -14,6 +14,10 @@ Split TWIST input,output to exome and panel respectively.
 
 * gaia-shiny
 
+Rectify genomic coordinates for a single SNV in MCOLN1, not whole gene.
+
+Remove Bone Marrow. Rectify Cardiomopathy as per Edwin request.
+
 Add Arterial Tortuosity gene list.
 
 Additional hotspot variants added in Jewish Panel and CFTR panel, Since run PTW_23_0320A_2	
