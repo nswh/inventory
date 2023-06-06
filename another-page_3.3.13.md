@@ -14,6 +14,8 @@ Split TWIST input,output to exome and panel respectively.
 
 * gaia-shiny
 
+Enable download annotated VCF file from the GUI.
+
 Enable batch download for TWIST panel. Dynamic download batch zip file and name selected.
 
 Change GAIA gender check y-axis to reflect the meaning of the score. Add expiry date in the CNV download.
