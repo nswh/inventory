@@ -14,6 +14,8 @@ Split TWIST input,output to exome and panel respectively.
 
 * gaia-shiny
 
+Explicitly denote PLINK for sex estimation.
+
 Enable download annotated VCF file from the GUI.
 
 Enable batch download for TWIST panel. Dynamic download batch zip file and name selected.
