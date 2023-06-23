@@ -14,7 +14,9 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 For databases: 
 *   PTW_23_0116A onwards
-*   Duplicated PTW_22_1125A, PTW_22_1130A, PTW_22_1205A, PTW_22_1212A, PTW_22_1212B, PTW_22_1219A, PTW_22_1219B_2, PTW_23_0102A, PTW_23_0102B and PTW_23_0109A as Joint Call not bringing back low quality variants that present in single sample VCF files. 
+*   Duplicated PTW_22_1125A, PTW_22_1130A, PTW_22_1205A, PTW_22_1212A, PTW_22_1212B, PTW_22_1219A, PTW_22_1219B_2, PTW_23_0102A, PTW_23_0102B and PTW_23_0109A as Joint Call not bringing back low quality variants that present in single sample VCF files.
+*   WGS re-analysis
+
 
 ### GAIA 3.3.8 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.8.html)?
 
@@ -24,7 +26,7 @@ For databases:
 
 For databases: 
 *   TWIST validation 1 to 5
-*   EPIC ID
+*   EPIC ID WGS re-analysis
 
 ### GAIA 3.3.7 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.7.html)?
 
@@ -59,8 +61,6 @@ For databases:
 Input tolerance length: gene symbol < 12000; genomic coordinate < 900
 
 [CLOUD DEVELOPMENT for WES - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://pilot.gaia.nswhp.com.au:5863/)
-
-[CLOUD PRODUCTION for WGS only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](https://gaia.nswhp.com.au/)
 
 For databases: 
 *   POWH_21-1749 onwards
