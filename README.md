@@ -17,7 +17,6 @@ For databases:
 *   Duplicated PTW_22_1125A, PTW_22_1130A, PTW_22_1205A, PTW_22_1212A, PTW_22_1212B, PTW_22_1219A, PTW_22_1219B_2, PTW_23_0102A, PTW_23_0102B and PTW_23_0109A as Joint Call not bringing back low quality variants that present in single sample VCF files.
 *   WGS re-analysis
 
-
 ### GAIA 3.3.8 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.8.html)?
 
 [LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.8)](http://192.168.106.148:5866/)
@@ -34,7 +33,7 @@ For databases:
 
 Input tolerance length: nil
 
-[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.7)](http://pilot.gaia.nswhp.com.au:5865/)
+[【Archived】CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.7)](http://pilot.gaia.nswhp.com.au:5865/)
 
 For databases: 
 *   POWH_22-1009 onwards
@@ -48,11 +47,10 @@ WES Trio 8 (GEN003053 / Proband 21R7985962 GAIA v3.3.1): Nephroniphthisis and ce
 
 Input tolerance length: gene symbol < 900; genomic coordinate < 900
 
-[CLOUD DEVELOPMENT for WES and WGS - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.6)](http://pilot.gaia.nswhp.com.au:5864/)
+[【Archived】CLOUD DEVELOPMENT for WES and WGS - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.6)](http://pilot.gaia.nswhp.com.au:5864/)
 
 For databases: 
 *   POWH_22-624 onwards
-*   WGS of NA12878, NA24385/HG002 for RPA testing
 
 ### GAIA 3.3.5 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.5.html)?
 
@@ -60,12 +58,10 @@ For databases:
 
 Input tolerance length: gene symbol < 12000; genomic coordinate < 900
 
-[CLOUD DEVELOPMENT for WES - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://pilot.gaia.nswhp.com.au:5863/)
+[【Archived partially】CLOUD DEVELOPMENT for WES - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://pilot.gaia.nswhp.com.au:5863/)
 
 For databases: 
 *   POWH_21-1749 onwards
-*   CMGbroad
-*   WGS_validation30X
 
 ### GAIA 3.3.4 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.4.html)?
 
@@ -80,7 +76,7 @@ For databases:
 
 [LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.3)](http://192.168.106.148:7888/)
 
-[CLOUD - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.3)](http://pilot.gaia.nswhp.com.au:5861/)
+[【Archived】CLOUD - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.3)](http://pilot.gaia.nswhp.com.au:5861/)
 
 For databases: 
 *   POWH_21-1528 RNSH databases and onwards, no Randwick databases are in this version. This version is the starting point of seperating RNSH databases from Randwick databases and CI/CD, S3, instance-less front-end testing. 
