@@ -14,6 +14,8 @@ Split TWIST input,output to exome and panel respectively.
 
 * gaia-shiny
 
+Refreshing cardiac panels in GAIA
+
 Explicitly denote PLINK for sex estimation.
 
 Enable download annotated VCF file from the GUI.
