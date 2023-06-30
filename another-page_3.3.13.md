@@ -14,6 +14,8 @@ Split TWIST input,output to exome and panel respectively.
 
 * gaia-shiny
 
+Make up a missing gene list Ectodermal_Dysplasia.20230221.txt
+
 Remove TAFAZZIN from gene list.
 
 Refreshing cardiac panels in GAIA
