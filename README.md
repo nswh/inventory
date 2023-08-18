@@ -1,11 +1,5 @@
 ## SEALS Genomics Analysis Pipeline Inverntory List
 
-### POWH BaseSpace
-
-[NSWHP Private Domain BaseSpace](https://nswhp-pl.aps2.sh.basespace.illumina.com/)
-Once log in, on top right corner, choose POWH (green tick) for workgroup, choose Personal for testing. 
-Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
-
 ### GAIA 3.3.15 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.15.html)?
 
 [LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.15)](http://192.168.106.148:5872/)
@@ -199,6 +193,12 @@ For databases:
 *   POWH_NovaSeq6000_20200409
 *   POWH_NovaSeq6000_20200228
 *   20200103
+
+### POWH BaseSpace
+
+[NSWHP Private Domain BaseSpace](https://nswhp-pl.aps2.sh.basespace.illumina.com/)
+Once log in, on top right corner, choose POWH (green tick) for workgroup, choose Personal for testing. 
+Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 ### GAIA 2.3 - internal only
 
