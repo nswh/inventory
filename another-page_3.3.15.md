@@ -4,6 +4,8 @@ GAIA v3.3.15
 
 * gaia-shiny
 
+Resize and add logo.
+
 Display gene symbols in the gene list to the saved QC report.
 
 Enable cnv.xml to be open outside of the network. 
