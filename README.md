@@ -1,5 +1,14 @@
 ## SEALS Genomics Analysis Pipeline Inverntory List
 
+### GAIA 3.5.0 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.0.html)?
+
+[LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.0)](http://192.168.106.148:5873/)
+
+[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.0)](http://pilot.gaia.nswhp.com.au:5873/)
+
+For databases: 
+*   PTW_23_0807B onwards
+
 ### GAIA 3.3.15 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.15.html)?
 
 [LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.15)](http://192.168.106.148:5872/)
