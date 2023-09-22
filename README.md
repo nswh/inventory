@@ -8,6 +8,7 @@
 
 For databases: 
 *   PTW_23_0807B onwards
+*   WES re-analysis
 
 ### GAIA 3.3.15 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.15.html)?
 
@@ -27,7 +28,7 @@ For databases:
 For databases: 
 *   PTW_23_0116A onwards
 *   Duplicated PTW_22_1125A, PTW_22_1130A, PTW_22_1205A, PTW_22_1212A, PTW_22_1212B, PTW_22_1219A, PTW_22_1219B_2, PTW_23_0102A, PTW_23_0102B and PTW_23_0109A as Joint Call not bringing back low quality variants that present in single sample VCF files.
-*   WGS re-analysis
+*   WGS & WES re-analysis
 
 ### GAIA 3.3.8 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.8.html)?
 
@@ -52,6 +53,7 @@ For databases:
 *   WES trio analysis training sets: GEN000114, GEN000124, GEN000227, GEN003079, GEN003194, GEN004090
 *   WES trio CNV analysis training sets: GEN002683 / Proband 21R549791T GAIA v3.3.0): Renal tubular dysgenesis in proband
 WES Trio 8 (GEN003053 / Proband 21R7985962 GAIA v3.3.1): Nephroniphthisis and cerebellar hypoplasia in proband
+*   WES re-analysis
 
 ### GAIA 3.3.6 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.6.html)?
 
