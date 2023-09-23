@@ -18,6 +18,7 @@ For databases:
 
 For databases: 
 *   PTW_23_0807A onwards
+*   WES re-analysis
 
 ### GAIA 3.3.13 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.13.html)?
 
