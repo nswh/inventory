@@ -34,4 +34,6 @@ Gene Symbol check upgrade to VEP 110, includes CNV and coverage symbol query.
 
 Use VEP 110 gnomAD freq instead of dbNSFP
 
+* For a detailed referece resource data please see either QC Metrics Report HTML file from analysis portal or [GAIA version](./another-page_3.5.0_GAIA_version.html)?
+
 [back](./)
