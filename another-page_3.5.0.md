@@ -22,6 +22,8 @@ Temporary transient to 3.5.0, tag CADD plugin as 1.5
 
 * gaia-shiny
 
+Display VEST4, MutPred2, BayesDel scores
+
 Add URL of All_of_Us, gnomAD, primAD, Broad Institute SpliceAI.
 
 Add drop down gene list Oculocutaneous_Albinism.20230929.txt
