@@ -1,6 +1,6 @@
 ## What's New?
 
-GAIA v3.5.0
+GAIA v3.5.1
 
 * gaia-init-ref-files
 
@@ -13,6 +13,8 @@ Add AlphaMissense plugin
 Add Alpha Missense scores, updated HGMD to 2023Q3
 
 * gaia-shiny
+
+Add Mendeliome gene list.Remove LZTR1 from Cardiomyopathy adult and combine gene list. Updated ID EE gene list.
 
 Add Alpha Missense scores, updated HGMD to 2023Q3
 
