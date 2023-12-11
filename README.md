@@ -2,7 +2,7 @@
 
 ### GAIA 3.5.1 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.1.html)?
 
-[LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.1)](http://192.168.106.148:5874/)
+[LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.1)](http://192.168.106.151:5874/)
 
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.1)](http://pilot.gaia.nswhp.com.au:5874/)
 
@@ -11,7 +11,7 @@ For databases:
 
 ### GAIA 3.5.0 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.0.html)?
 
-[LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.0)](http://192.168.106.148:5873/)
+[LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.0)](http://192.168.106.151:5873/)
 
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.0)](http://pilot.gaia.nswhp.com.au:5873/)
 
