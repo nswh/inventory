@@ -8,6 +8,7 @@
 
 For databases: 
 *   PTW_23_1002A onwards
+*   WES re-analysis
 
 ### GAIA 3.5.0 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.0.html)?
 
