@@ -4,6 +4,8 @@ GAIA v3.5.2
 
 * gaia-shiny
 
+Rectify gene list name as the date of updates.
+
 Updated ID EE and Mendelian gene list.
 
 compound hom_het model for RCS, previous called HBB_OCA, now applied to all MM genes.
