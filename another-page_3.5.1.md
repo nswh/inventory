@@ -14,6 +14,12 @@ Add Alpha Missense scores, updated HGMD to 2023Q3
 
 * gaia-shiny
 
+remove old ID_EE and Mendelian gene lists
+
+update Mendelian gene list
+
+update ID_EE gene list
+
 Add Mendeliome gene list.Remove LZTR1 from Cardiomyopathy adult and combine gene list. Updated ID EE gene list.
 
 Add Alpha Missense scores, updated HGMD to 2023Q3
