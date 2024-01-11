@@ -16,9 +16,9 @@ For databases:
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.1)](http://pilot.gaia.nswhp.com.au:5874/)
 
 For databases: 
-*   PTW_23_1002A onwards
-*   WES re-analysis
-*   WGS re-analysis
+*     PTW_23_1002A onwards
+*     WES re-analysis
+*     WGS re-analysis
 
 ### GAIA 3.5.0 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.0.html)?
 
@@ -27,8 +27,8 @@ For databases:
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.0)](http://pilot.gaia.nswhp.com.au:5873/)
 
 For databases: 
-*   PTW_23_0807B onwards
-*   WES re-analysis
+*     PTW_23_0807B onwards
+*     WES re-analysis
 
 ### GAIA 3.3.15 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.15.html)?
 
@@ -37,8 +37,8 @@ For databases:
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.15)](http://pilot.gaia.nswhp.com.au:5872/)
 
 For databases: 
-*   PTW_23_0807A onwards
-*   WES re-analysis
+*     PTW_23_0807A onwards
+*     WES re-analysis
 
 ### GAIA 3.3.13 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.13.html)?
 
@@ -47,9 +47,9 @@ For databases:
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.13)](http://pilot.gaia.nswhp.com.au:5871/)
 
 For databases: 
-*   PTW_23_0116A onwards
-*   Duplicated PTW_22_1125A, PTW_22_1130A, PTW_22_1205A, PTW_22_1212A, PTW_22_1212B, PTW_22_1219A, PTW_22_1219B_2, PTW_23_0102A, PTW_23_0102B and PTW_23_0109A as Joint Call not bringing back low quality variants that present in single sample VCF files.
-*   WGS & WES re-analysis
+*     PTW_23_0116A onwards
+*     Duplicated PTW_22_1125A, PTW_22_1130A, PTW_22_1205A, PTW_22_1212A, PTW_22_1212B, PTW_22_1219A, PTW_22_1219B_2, PTW_23_0102A, PTW_23_0102B and PTW_23_0109A as Joint Call not bringing back low quality variants that present in single sample VCF files.
+*     WGS & WES re-analysis
 
 ### GAIA 3.3.8 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.8.html)?
 
@@ -58,8 +58,8 @@ For databases:
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.8)](http://pilot.gaia.nswhp.com.au:5866/)
 
 For databases: 
-*   TWIST validation 1 to 5
-*   EPIC ID WGS re-analysis
+*     TWIST validation 1 to 5
+*     EPIC ID WGS re-analysis
 
 ### GAIA 3.3.7 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.7.html)?
 
@@ -70,11 +70,11 @@ Input tolerance length: nil
 [【Archived】CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.7)](http://pilot.gaia.nswhp.com.au:5865/)
 
 For databases: 
-*   POWH_22-1009 onwards
-*   WES trio analysis training sets: GEN000114, GEN000124, GEN000227, GEN003079, GEN003194, GEN004090
-*   WES trio CNV analysis training sets: GEN002683 / Proband 21R549791T GAIA v3.3.0): Renal tubular dysgenesis in proband
+*     POWH_22-1009 onwards
+*     WES trio analysis training sets: GEN000114, GEN000124, GEN000227, GEN003079, GEN003194, GEN004090
+*     WES trio CNV analysis training sets: GEN002683 / Proband 21R549791T GAIA v3.3.0): Renal tubular dysgenesis in proband
 WES Trio 8 (GEN003053 / Proband 21R7985962 GAIA v3.3.1): Nephroniphthisis and cerebellar hypoplasia in proband
-*   WES re-analysis
+*     WES re-analysis
 
 ### GAIA 3.3.6 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.6.html)?
 
@@ -85,7 +85,7 @@ Input tolerance length: gene symbol < 900; genomic coordinate < 900
 [【Archived】CLOUD DEVELOPMENT for WES and WGS - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.6)](http://pilot.gaia.nswhp.com.au:5864/)
 
 For databases: 
-*   POWH_22-624 onwards
+*     POWH_22-624 onwards
 
 ### GAIA 3.3.5 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.5.html)?
 
@@ -96,7 +96,7 @@ Input tolerance length: gene symbol < 12000; genomic coordinate < 900
 [【Archived partially】CLOUD DEVELOPMENT for WES - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://pilot.gaia.nswhp.com.au:5863/)
 
 For databases: 
-*   POWH_21-1749 onwards
+*     POWH_21-1749 onwards
 
 ### GAIA 3.3.4 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.4.html)?
 
@@ -105,7 +105,7 @@ For databases:
 [CLOUD - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.4)](http://pilot.gaia.nswhp.com.au:5862/)
 
 For databases: 
-*   POWH_21-1604 onwards
+*     POWH_21-1604 onwards
 
 ### GAIA 3.3.3 - for NovaSeq GRCh38/hg38
 
@@ -114,117 +114,117 @@ For databases:
 [【Archived】CLOUD - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.3)](http://pilot.gaia.nswhp.com.au:5861/)
 
 For databases: 
-*   POWH_21-1528 RNSH databases and onwards, no Randwick databases are in this version. This version is the starting point of seperating RNSH databases from Randwick databases and CI/CD, S3, instance-less front-end testing. 
+*     POWH_21-1528 RNSH databases and onwards, no Randwick databases are in this version. This version is the starting point of seperating RNSH databases from Randwick databases and CI/CD, S3, instance-less front-end testing. 
 
 ### GAIA 3.3.2 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.2.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.2)](http://192.168.106.148:7887/)
 
 For databases: 
-*   POWH_21-1434_3 onwards
+*     POWH_21-1434_3 onwards
 
 ### GAIA 3.3.1 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.1.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.1)](http://192.168.106.148:7886/gaia/)
 
 For databases: 
-*   POWH_21-1262 onwards
+*     POWH_21-1262 onwards
 
 ### GAIA 3.3.0 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.0.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.0)](http://192.168.106.148:7885/gaia/)
 
 For databases: 
-*   POWH_21-755 onwards
+*     POWH_21-755 onwards
 
 ### GAIA 3.2.8 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.8.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.8)](http://192.168.106.148:7884/gaia/)
 
 For databases: 
-*   POWH_21-666 onwards
+*     POWH_21-666 onwards
 
 ### GAIA 3.2.7 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.7.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.7)](http://192.168.106.148:7883/gaia/)
 
 For databases: 
-*   POWH_21-608 onwards
+*     POWH_21-608 onwards
 
 ### GAIA 3.2.6 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.6.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.6)](http://192.168.106.148:7882/gaia/)
 
 For databases: 
-*   POWH_21-308 onwards
+*     POWH_21-308 onwards
 
 ### GAIA 3.2.5 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.5.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.5)](http://192.168.106.148:7881/gaia/)
 
 For databases: 
-*   POWH_20-604 onwards and POWH_20-490
+*     POWH_20-604 onwards and POWH_20-490
 
 ### GAIA 3.2.4 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.4.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.4)](http://192.168.106.148:7880/gaia/)
 
 For databases: 
-*   POWH_20-567 onwards and MM portion of POWH_20-514
+*     POWH_20-567 onwards and MM portion of POWH_20-514
 
 ### GAIA 3.2.3 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.3.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.3)](http://192.168.106.148:7879/gaia/)
 
 For databases: 
-*   POWH_20-490 onwards
+*     POWH_20-490 onwards
 
 ### GAIA 3.2.2 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.2.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.2)](http://192.168.106.148:7878/gaia/)
 
 For databases: 
-*   POWH_20-318 onwards
+*     POWH_20-318 onwards
 
 ### GAIA 3.2.1 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.1.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.1)](http://192.168.106.148:6868/gaia/)
 
 For databases: 
-*   POWH_20-220 onwards
+*     POWH_20-220 onwards
 
 ### GAIA 3.2.0 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.2.0.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.2.0)](http://192.168.106.148:5858/gaia/)
 
 For databases: 
-*   POWH_20-100 onwards
+*     POWH_20-100 onwards
 
 ### GAIA 3.1.1 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.1.1.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.1.1)](http://192.168.106.148:4848/gaia/)
 
 For databases: 
-*   POWH_20-93 onwards
+*     POWH_20-93 onwards
 
 ### GAIA 3.1.0 - internal only for NovaSeq GRCh38/hg38 [What's New](./another-page_3.1.0.html)?
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.1.0)](http://192.168.106.148:3838/gaia/)
 
 For databases: 
-*   POWH_2X-03 onwards
+*     POWH_2X-03 onwards
 
 ### GAIA 3.0.3 - internal only for NovaSeq GRCh38/hg38
 
 [Genomics Annotation Interpretation Analysis pipeline (GAIA 3.0.3)](http://192.168.106.148:3839/gaia/)
 
 For databases: 
-*   POWH_2X-02
-*   POWH_2X-01
-*   POWH_NovaSeq6000_20200424
-*   POWH_NovaSeq6000_20200409
-*   POWH_NovaSeq6000_20200228
-*   20200103
+*     POWH_2X-02
+*     POWH_2X-01
+*     POWH_NovaSeq6000_20200424
+*     POWH_NovaSeq6000_20200409
+*     POWH_NovaSeq6000_20200228
+*     20200103
 
 ### POWH BaseSpace
 
