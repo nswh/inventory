@@ -2,6 +2,10 @@
 
 GAIA v3.5.2
 
+* gaia-init-ref-files
+
+Update ClinVar to 20240107
+
 * gaia-shiny
 
 Rectify gene list name as the date of updates.
