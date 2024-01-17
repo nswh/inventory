@@ -2,7 +2,19 @@
 
 GAIA v3.5.2
 
+* gaia-cromwell
+
+Update OMIM to 20240117, ClinVar 20240107, MasterMind 20240103 for GAIA version 3.5.2
+
 * gaia-init-ref-files
+
+Add method of generating coverage metrics BED file from UCSC panther. 
+
+OMIM updated to 20240115Copy commit hash	OMIM updated to 20240117
+
+Update MasterMind to 2024.01.03
+
+Add OMIM data download application statement.	
 
 Update ClinVar to 20240107
 
