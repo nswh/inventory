@@ -20,6 +20,8 @@ Update ClinVar to 20240107
 
 * gaia-shiny
 
+Update FETAL_MALFORMATIONS_COMBINED_PANELAPPS, ID_EE
+
 Rectify gene list name as the date of updates.
 
 Updated ID EE and Mendelian gene list.
