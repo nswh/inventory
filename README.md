@@ -19,6 +19,7 @@ For databases:
 *     PTW_23_1002A onwards
 *     WES re-analysis
 *     WGS re-analysis
+*     RNSH in PTW_23_0814A
 
 ### GAIA 3.5.0 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.0.html)?
 
@@ -50,6 +51,7 @@ For databases:
 *     PTW_23_0116A onwards
 *     Duplicated PTW_22_1125A, PTW_22_1130A, PTW_22_1205A, PTW_22_1212A, PTW_22_1212B, PTW_22_1219A, PTW_22_1219B_2, PTW_23_0102A, PTW_23_0102B and PTW_23_0109A as Joint Call not bringing back low quality variants that present in single sample VCF files.
 *     WGS & WES re-analysis
+*     RNSH in PTW_23_0327A
 
 ### GAIA 3.3.8 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.8.html)?
 
