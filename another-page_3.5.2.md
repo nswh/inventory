@@ -20,6 +20,8 @@ Update ClinVar to 20240107
 
 * gaia-shiny
 
+Reorder gnomade_ac,gnomadg_ac,gnomade_nhomalt,gnomadg_nhomalt. Change xlinked_hemi_de_novo to xlinked_hemi_de_novo_inherited.
+
 Update FETAL_MALFORMATIONS_COMBINED_PANELAPPS, ID_EE
 
 Rectify gene list name as the date of updates.
