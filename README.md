@@ -9,6 +9,7 @@
 For databases: 
 *     PTW_24_0101A onwards
 *     Training WES cases
+*     WES re-analysis
 
 ### GAIA 3.5.1 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.1.html)?
 
