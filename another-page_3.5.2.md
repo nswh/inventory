@@ -20,6 +20,8 @@ Update ClinVar to 20240107
 
 * gaia-shiny
 
+Add gnomAD r4 column in front of r3 column, web link only, no filter.
+
 move revel in front of clin_pred
 
 Change Couple_HOM to Couple_diff_HOM_HET. Reorder gnomade_ac,gnomadg_ac,gnomade_nhomalt,gnomadg_nhomalt. Change xlinked_hemi_de_novo to xlinked_hemi_de_novo_inherited.
