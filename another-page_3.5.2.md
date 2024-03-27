@@ -4,9 +4,13 @@ GAIA v3.5.2
 
 * gaia-cromwell
 
+HGMD 2023Q4
+
 Update OMIM to 20240117, ClinVar 20240107, MasterMind 20240103 for GAIA version 3.5.2
 
 * gaia-init-ref-files
+
+HGMD 2023Q4
 
 Add method of generating coverage metrics BED file from UCSC panther. 
 
