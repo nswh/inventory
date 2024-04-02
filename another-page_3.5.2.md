@@ -24,6 +24,8 @@ Update ClinVar to 20240107
 
 * gaia-shiny
 
+Fixed PubMed display number, but not hits after click the URL.
+
 add Brain_and_ventricle_malformations_plus_microcephaly_15_3_24.txt
 
 Add gnomAD r4 column in front of r3 column, web link only, no filter.
