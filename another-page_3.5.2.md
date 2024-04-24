@@ -24,6 +24,8 @@ Update ClinVar to 20240107
 
 * gaia-shiny
 
+Display somatic column for COSMIC v97 in VEP110.
+
 Fixed PubMed display number, but not hits after click the URL.
 
 add Brain_and_ventricle_malformations_plus_microcephaly_15_3_24.txt
