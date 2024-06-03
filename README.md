@@ -1,4 +1,4 @@
-## SEALS Genomics Analysis Pipeline Inverntory List
+## NSWHP Genomic Annotation Interpretation Application (GAIA) Inverntory List
 
 ### GAIA 3.5.2 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.2.html)?
 
