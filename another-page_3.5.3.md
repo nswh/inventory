@@ -24,6 +24,8 @@ RPRM GAIA enquiry BED region UTR5 expand 60 bases, UTR3 expand 10 bases.
 
 Add ancestry estimate result for each family.
 
+remove Ashkenazi variants from Cystic_Fibrosis_CFTR.bed
+
 * For a detailed referece resource data please see either QC Metrics Report HTML file from analysis portal or [GAIA version](./another-page_3.5.3_GAIA_version.html)
 
 [back](./)
