@@ -2,7 +2,17 @@
 
 GAIA v3.5.3
 
+* gaia-init-ref-files
+
+HGMD updated to 2024 Q2
+
 * gaia-cromwell
+
+HGMD upgrade to 2024 Q2	
+
+Delete the date specified cromwell configure file which uses S3.
+
+Seperate cromwell configure file to S3 specific.
 
 upgrade ClinVar to 20240630, OMIM to 20240707
 
