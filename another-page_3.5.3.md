@@ -4,6 +4,8 @@ GAIA v3.5.3
 
 * gaia-init-ref-files
 
+HGMD VCF header 2024.2
+
 HGMD updated to 2024 Q2
 
 * gaia-cromwell
