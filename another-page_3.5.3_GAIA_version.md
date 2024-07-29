@@ -48,7 +48,7 @@ AlphaMissense	hg38 (VEP Plugin 110)
 
 pLI/LOF	gnomAD 2.1.1 (VEP custom 110)
 
-HGMD	2023Q4
+HGMD	2024Q2
 
 MasterMind	2024.01.03
 
