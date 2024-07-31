@@ -65,18 +65,6 @@ For databases:
 *     WGS & WES re-analysis
 *     RNSH in PTW_23_0327A
 
-### GAIA 3.3.5 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.5.html)?
-
-[LAB - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://192.168.106.151:5863/)
-
-Input tolerance length: gene symbol < 12000; genomic coordinate < 900
-
-[【Archived partially】CLOUD DEVELOPMENT for WES - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.5)](http://pilot.gaia.nswhp.com.au:5863/)
-
-For databases: 
-*     POWH_21-1749 onwards
-
-
 ### POWH BaseSpaces WorkGroup
 
 [NSWHP Private Domain BaseSpace](https://nswhp-pl.aps2.sh.basespace.illumina.com/)
