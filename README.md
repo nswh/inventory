@@ -1,6 +1,6 @@
 ## NSWHP Genomic Annotation Interpretation Application (GAIA) Inverntory List
 
-### GAIA 3.5.3 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.3.html)?
+### GAIA 3.5.3 - for NovaSeq GRCh38/hg38 (release date 20240723) [What's New](./another-page_3.5.3.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.3)](http://192.168.106.151:5876/)
 
@@ -9,7 +9,7 @@
 For databases: 
 *     PTW_24_0701A onwards
 
-### GAIA 3.5.2 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.2.html)?
+### GAIA 3.5.2 - for NovaSeq GRCh38/hg38 (release date 20240110) [What's New](./another-page_3.5.2.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.2)](http://192.168.106.151:5875/)
 
@@ -21,7 +21,7 @@ For databases:
 *     WES re-analysis
 *     WGS re-analysis
 
-### GAIA 3.5.1 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.1.html)?
+### GAIA 3.5.1 - for NovaSeq GRCh38/hg38 (release date 20231010) [What's New](./another-page_3.5.1.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.1)](http://192.168.106.151:5874/)
 
@@ -33,7 +33,7 @@ For databases:
 *     WGS re-analysis
 *     RNSH in PTW_23_0814A
 
-### GAIA 3.5.0 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.5.0.html)?
+### GAIA 3.5.0 - for NovaSeq GRCh38/hg38 (release date 20230918) [What's New](./another-page_3.5.0.html)?
 
 [LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.0)](http://192.168.106.151:5873/)
 
@@ -43,7 +43,7 @@ For databases:
 *     PTW_23_0807B onwards
 *     WES re-analysis
 
-### GAIA 3.3.15 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.15.html)?
+### GAIA 3.3.15 - for NovaSeq GRCh38/hg38 (release date 20230822) [What's New](./another-page_3.3.15.html)?
 
 [LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.15)](http://192.168.106.151:5872/)
 
@@ -53,7 +53,7 @@ For databases:
 *     PTW_23_0807A onwards
 *     WES re-analysis
 
-### GAIA 3.3.13 - for NovaSeq GRCh38/hg38 [What's New](./another-page_3.3.13.html)?
+### GAIA 3.3.13 - for NovaSeq GRCh38/hg38 (release date 20230124) [What's New](./another-page_3.3.13.html)?
 
 [LAB for WES only - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.3.13)](http://192.168.106.151:5871/)
 
