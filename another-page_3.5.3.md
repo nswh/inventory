@@ -28,6 +28,8 @@ upgrade ClinVar to 20240630  `20240707`
 
 * gaia-shiny
 
+remove gene MCOLN1 from CNV query.Add QC metrics in batch analysis output.  `20240801`
+
 remove Ashkenazi varaints from Cystic_Fibrosis_CFTR.bed as requested by Nila  `20240715`
 
 Add batch analysis for TWIST panelV2, CFTR only.The GAIA enquiry code is pre-executed, not on the spot SQL enquiry.  `20240709`
