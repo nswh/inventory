@@ -2,7 +2,7 @@
 
 ### [GenPhen Atlas](http://192.168.106.150:8000/)
 
-*  For trial only, include 5000 samples from NovaSeq6000 from 2020-2022
+*  For trial only, include 5000 samples sequenced on NovaSeq6000 from 2020 to early 2022
 
 ### GAIA 3.5.3 - for NovaSeq GRCh38/hg38 (release date 20240723) [What's New](./another-page_3.5.3.html)?
 
