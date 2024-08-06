@@ -10,6 +10,8 @@ Delete the date specified cromwell configure file which uses S3.  `20240729`
 
 Seperate cromwell configure file to S3 specific. `20240729`
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 upgrade ClinVar to 20240630, OMIM to 20240707  `20240708`
 
 Versioning tag from 3.5.2 to 3.5.3  `20240705`
@@ -22,6 +24,8 @@ HGMD VCF header 2024.2 `20240729`
 
 HGMD updated to 2024 Q2  `20240729`
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 upgrade OMIM to 20240707  `20240708`
 
 upgrade ClinVar to 20240630  `20240707`
@@ -31,6 +35,8 @@ upgrade ClinVar to 20240630  `20240707`
 Expand the browser window to display all batch analysis samples, capacity is 6*9=54. The maximum on the plate is 96/2=48.  `20240806`
 
 remove gene MCOLN1 from CNV query.Add QC metrics in batch analysis output.  `20240801`
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 remove Ashkenazi varaints from Cystic_Fibrosis_CFTR.bed as requested by Nila  `20240715`
 
