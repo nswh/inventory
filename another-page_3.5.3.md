@@ -1,6 +1,6 @@
 ## What's New?
 
-GAIA v3.5.3
+GAIA v3.5.3 (release date 20240723)
 
 * gaia-cromwell
 
