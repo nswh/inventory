@@ -2,7 +2,7 @@
 
 GAIA v3.5.3 (release date 20240723)
 
-### gaia-cromwell
+### * gaia-cromwell
 
 HGMD upgrade to 2024 Q2  `20240729`
 
@@ -18,7 +18,7 @@ Versioning tag from 3.5.2 to 3.5.3  `20240705`
 
 Perform Ancestry Estimate for each family.  `20240702`
 
-### gaia-init-ref-files
+### * gaia-init-ref-files
 
 HGMD VCF header 2024.2 `20240729`
 
@@ -30,7 +30,7 @@ upgrade OMIM to 20240707  `20240708`
 
 upgrade ClinVar to 20240630  `20240707`
 
-### gaia-shiny
+### * gaia-shiny
 
 Expand the browser window to display all batch analysis samples, capacity is 6*9=54. The maximum on the plate is 96/2=48.  `20240806`
 
