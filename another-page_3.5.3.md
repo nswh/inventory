@@ -4,6 +4,8 @@ GAIA v3.5.3 (release date 20240723)
 
 ### * gaia-cromwell
 
+Show full legend in Ancestry Estimate html file.  `20240808`
+
 HGMD upgrade to 2024 Q2  `20240729`
 
 Delete the date specified cromwell configure file which uses S3.  `20240729`
