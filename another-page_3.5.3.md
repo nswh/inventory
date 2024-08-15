@@ -34,6 +34,10 @@ upgrade ClinVar to 20240630  `20240707`
 
 ### * gaia-shiny
 
+Remove warning messages in R markdown html QC metrics report  `20240815`
+
+Display and download Somalier Ancestry Estimation result  `20240815`
+
 Expand the browser window to display all batch analysis samples, capacity is 6*9=54. The maximum on the plate is 96/2=48.  `20240806`
 
 remove gene MCOLN1 from CNV query.Add QC metrics in batch analysis output.  `20240801`
