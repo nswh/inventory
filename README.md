@@ -75,3 +75,8 @@ For databases:
 Once log in, on top right corner, choose POWH (green tick) for workgroup, choose Personal for testing. 
 Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
+### IGV configuration on PCs
+
+In some circumtance, IGV genome build cannot be loaded due to the proxy. So we need to configure IGV to use genome build list stored on health web server. 
+The instruction guild of [How to setup IGV for local hosted Genomes](./How to setup IGV for local hosted Genomes.html)
+
