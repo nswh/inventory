@@ -77,6 +77,6 @@ Java Exception URL is `https://basespace-launch-east.s3.amazonaws.com`
 
 ### IGV configuration on PCs
 
-In some circumtance, IGV genome build cannot be loaded due to the proxy. So we need to configure IGV to use genome build list stored on health web server. 
-The instruction guild of [How to setup IGV for local hosted Genomes](./How_to_setup_IGV_for_local_hosted_Genomes.html)
+In some circumstance, IGV genome build cannot be loaded due to the proxy. So, we need to configure IGV to use genome build list stored on health web server. 
+The instruction guides of [How to setup IGV for local hosted Genomes](./How_to_setup_IGV_for_local_hosted_Genomes.html)
 
