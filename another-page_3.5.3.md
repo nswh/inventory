@@ -34,6 +34,10 @@ upgrade ClinVar to 20240630  `20240707`
 
 ### * gaia-shiny
 
+Fix the QC metrics download issue. kable matrix too long.  `20240903`
+
+Due to environment change in GAIA frontend. The command docker rmi -f dollar(docker images -a -q) FORCE removed some dependencies of previous gemini installation, which cause miniconda solve environment forever. There are some functions in Batches does not work. So rebuild 3.5.3 after rocker/shiny 4.4.1 by copying gemini from gaia-shiny:3.0.0 without installation.  `20240901`
+
 Remove warning messages in R markdown html QC metrics report  `20240815`
 
 Display and download Somalier Ancestry Estimation result  `20240815`
