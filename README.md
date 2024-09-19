@@ -4,6 +4,9 @@
 
 *  For trial only, include 5000 samples sequenced on NovaSeq6000 from 2020 to early 2022
 
+<details>
+  <summary>GAIA 3.6.0 LIVE TEST</summary>
+
 ### GAIA 3.6.0 - for NovaSeq GRCh38/hg38 (LIVE TEST ONLY! PLEASE REPORT BUGS TO NSWPATH-BioinformaticsEAST@health.nsw.gov.au) [What's New](./another-page_3.6.0.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.6.0)](http://192.168.106.151:5878/)
@@ -12,6 +15,7 @@
 
 For databases: 
 *     LIVE TEST ONLY! DON'T USE FOR DIAGNOSTIC PURPOSE UNITL RELEASE!
+</details>
 
 ### GAIA 3.5.3 - for NovaSeq GRCh38/hg38 (release date 20240723) [What's New](./another-page_3.5.3.html)?
 
