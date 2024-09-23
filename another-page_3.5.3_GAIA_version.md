@@ -1,6 +1,6 @@
 Database/Tool	Version
 
-GAIA	v3.5.3
+GAIA	v3.6.0
 
 Reference genome	GRCh38 / HG38
 
@@ -32,13 +32,13 @@ ClinPred	hg19 (remapped)
 
 dbNSFP	4.4a (gnomad_exomes_nhomalt, gnomad_genomes_nhomalt, VEST4, MutPred2, BayesDel_noAF)
 
-OMIM	20240707
+OMIM	20240923
 
 MANE	GRCh38r1.2
 
 Appris (for coverage calculation)	2023_08.v48
 
-ClinVar	20240630
+ClinVar	20240917
 
 CADD	1.6 (VEP Plugin 110)
 
