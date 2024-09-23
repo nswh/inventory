@@ -10,6 +10,8 @@ ClinVar update to 20240917  `20240923`
 
 ### * gaia-cromwell
 
+update input templates to 3.6.0  `20240923`
+
 ClinVar update to 20240917, OMIM update to 20240923.  `20240923`
 
 ### * gaia-shiny
