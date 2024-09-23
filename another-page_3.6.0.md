@@ -4,6 +4,8 @@ GAIA v3.6.0 (release date 20240923?)
 
 ### * gaia-shiny
 
+Update ID_EE_PubMed.20240918.txt, Replace Mendeliome_Randwick.20240919.txt, Add Mendeliome_incidentalome_removed_Randwick.20240919.txt  `20240923`
+
 Disable Clinical Phenotype Terms input when choose Batches pane.  `20240919`	
 
 Add Clinical Phenotype terms input from the analysts to transfer HPO terms to GenPhen Atlas.  `20240919`	
