@@ -2,6 +2,16 @@
 
 GAIA v3.6.0 (release date 20240923?)
 
+### * gaia-init-ref-files
+
+OMIM update to 20240923  `20240923`
+
+ClinVar update to 20240917  `20240923`
+
+### * gaia-cromwell
+
+ClinVar update to 20240917, OMIM update to 20240923.  `20240923`
+
 ### * gaia-shiny
 
 Update ID_EE_PubMed.20240918.txt, Replace Mendeliome_Randwick.20240919.txt, Add Mendeliome_incidentalome_removed_Randwick.20240919.txt  `20240923`
