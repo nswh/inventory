@@ -1,6 +1,6 @@
 ## What's New?
 
-GAIA v3.6.0 (release date 20240923?)
+GAIA v3.6.0 (release date 20240923)
 
 ### * gaia-init-ref-files
 
@@ -17,6 +17,8 @@ ClinVar update to 20240917, OMIM update to 20240923.  `20240923`
 ### * gaia-shiny
 
 Use .filter.csv for WGS and cross search gene symbol in between WES and WGS.Reduce the duplicates of WGS .csv and .full.csv  `20241016`
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Update ID_EE_PubMed.20240918.txt, Replace Mendeliome_Randwick.20240919.txt, Add Mendeliome_incidentalome_removed_Randwick.20240919.txt  `20240923`
 
