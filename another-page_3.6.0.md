@@ -16,6 +16,8 @@ ClinVar update to 20240917, OMIM update to 20240923.  `20240923`
 
 ### * gaia-shiny
 
+Allow download either .filter.csv or .csv  `20241018`
+
 Use .filter.csv for WGS and cross search gene symbol in between WES and WGS.Reduce the duplicates of WGS .csv and .full.csv  `20241016`
 
 ----------------------------------------------------------------------------------------------------------------------------------------
