@@ -4,7 +4,7 @@ GAIA v3.6.1 (release date 20241030?)
 
 ### * gaia-init-ref-files
 
-Update ClinVar and OMIM
+Update ClinVar and OMIM  `20241029`
 
 ### * gaia-cromwell
 
