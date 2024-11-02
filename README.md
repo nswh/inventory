@@ -4,14 +4,16 @@
 
 *  For trial only, include 5000 samples sequenced on NovaSeq6000 from 2020 to early 2022
 
-### GAIA 3.6.1 - for NovaSeq GRCh38/hg38 (live test only) [What's New](./another-page_3.6.1.html)?
+### GAIA 3.6.1 - for NovaSeq GRCh38/hg38 (release date 20241030) [What's New](./another-page_3.6.1.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.6.1)](http://192.168.106.151:5879/)
 
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.6.1)](http://pilot.gaia.nswhp.com.au:5879/)
 
-For databases (proposed): 
+For databases: 
 *     PTW_24_1021A onwards
+*     re-analysis
+*     WGS
 
 ### GAIA 3.6.0 - for NovaSeq GRCh38/hg38 (release date 20240924) [What's New](./another-page_3.6.0.html)?
 
@@ -21,6 +23,7 @@ For databases (proposed):
 
 For databases: 
 *     PTW_24_0916A onwards
+*     re-analysis
 
 ### GAIA 3.5.3 - for NovaSeq GRCh38/hg38 (release date 20240723) [What's New](./another-page_3.5.3.html)?
 
@@ -30,6 +33,7 @@ For databases:
 
 For databases: 
 *     PTW_24_0701A onwards
+*     re-analysis
 
 ### GAIA 3.5.2 - for NovaSeq GRCh38/hg38 (release date 20240110) [What's New](./another-page_3.5.2.html)?
 
@@ -40,8 +44,7 @@ For databases:
 For databases: 
 *     PTW_24_0101A onwards
 *     Training WES cases
-*     WES re-analysis
-*     WGS re-analysis
+*     WES & WGS re-analysis
 
 ### GAIA 3.5.1 - for NovaSeq GRCh38/hg38 (release date 20231010) [What's New](./another-page_3.5.1.html)?
 
@@ -51,8 +54,7 @@ For databases:
 
 For databases: 
 *     PTW_23_1002A onwards
-*     WES re-analysis
-*     WGS re-analysis
+*     WES & WGS re-analysis
 *     RNSH in PTW_23_0814A
 
 ### GAIA 3.5.0 - for NovaSeq GRCh38/hg38 (release date 20230918) [What's New](./another-page_3.5.0.html)?
