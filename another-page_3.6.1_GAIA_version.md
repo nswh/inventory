@@ -32,13 +32,13 @@ ClinPred	hg19 (remapped)
 
 dbNSFP	4.4a (gnomad_exomes_nhomalt, gnomad_genomes_nhomalt, VEST4, MutPred2, BayesDel_noAF)
 
-OMIM	20240923
+OMIM	20241029
 
 MANE	GRCh38r1.2
 
 Appris (for coverage calculation)	2023_08.v48
 
-ClinVar	20240917
+ClinVar	20241029
 
 CADD	1.6 (VEP Plugin 110)
 
