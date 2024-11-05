@@ -14,6 +14,12 @@ Update OMIM to 20241029  `20241029`
 
 ### * gaia-shiny
 
+Update Mendeliome Randwick gene list.  `20241105`
+
+Update ID EE gene list.  `20241105`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 When applying .bed the .bed value was not assigned to the criteria due to using == rather than =.Now fixed.  `20241029`
 
 ### For a detailed referece resource data please see either QC Metrics Report HTML file from analysis portal or [GAIA version](./another-page_3.6.1_GAIA_version.html)
