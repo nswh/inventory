@@ -1,8 +1,8 @@
 ## NSWHP Genomic Annotation Interpretation Application (GAIA) and GenPhen Atlas Inverntory List
 
-### [GenPhen Atlas](http://192.168.106.150:8000/)
+### [GenPhen Atlas](http://192.168.106.139:8000/)
 
-*  For trial only, include 5000 samples sequenced on NovaSeq6000 from 2020 to early 2022
+*  For trial only, include ~5000 samples sequenced on NovaSeq6000 from 2020 to early 2022
 
 ### GAIA 3.6.1 - for NovaSeq GRCh38/hg38 (release date 20241030) [What's New](./another-page_3.6.1.html)?
 
