@@ -66,13 +66,23 @@ WES CNV CSV Haploinsufficiency	2024.09.18
 
 WES CNV CSV GENE	Homo_sapiens.GRCh38.110 (VEP110)
 
-WES CNV IGV DGV	SV	2020.02.05
+WES/WGS CNV/SV IGV DGV	SV	2020.02.05
 
 WES CNV clinvar CNV	2024.09.18
 
 WES CNV gnomAD SVs	gnomAD SV 4.1
 
 WES CNV hgmd CNV	2024Q2
+
+WGS CNV/SV 1000 Genomes Consortium Phase 3 Integrated SV	estd219
+
+WGS CNV/SV GENE	Homo_sapiens.GRCh38.99
+
+WGS CNV/SV HPO annotations	2019.11.07
+
+WGS CNV/SV MGRB-SV	2020.06.28
+
+WGS CNV/SV OMIM/Orphanet	2019.11.07	
 
 HGNC nomenclature	2023-09-15 16:32
 
