@@ -14,6 +14,8 @@ Update OMIM to 20241029  `20241029`
 
 ### * gaia-shiny
 
+AllofUs SNV/Indel URL changed.  `20241122`
+
 .xml and .cnv.xml file expiry date extracted from S3 pre signed URL X-Amz-Date, not file time stamp  `20241119`
 
 Update Mendeliome Randwick gene list.  `20241105`
