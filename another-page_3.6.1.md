@@ -14,6 +14,14 @@ Update OMIM to 20241029  `20241029`
 
 ### * gaia-shiny
 
+Add Gain of Function column from GoFCards.  `20241227`
+
+Update ID_EE and Mendeliome to 20241219	Update ID_EE and Mendeliome to 20241219  `20241219`	
+
+update ID_EE gene list to 20241212  `20241212`
+
+update ID_EE gene list to 20241206  `20241209`
+
 AllofUs SNV/Indel URL changed.  `20241122`
 
 .xml and .cnv.xml file expiry date extracted from S3 pre signed URL X-Amz-Date, not file time stamp  `20241119`
