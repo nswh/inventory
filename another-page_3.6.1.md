@@ -14,6 +14,8 @@ Update OMIM to 20241029  `20241029`
 
 ### * gaia-shiny
 
+.xml expire date adapt to both S3 pre-signed URL v2 and v4.  `20250207`
+
 Add Gain of Function column from GoFCards.  `20241227`
 
 Update ID_EE and Mendeliome to 20241219	Update ID_EE and Mendeliome to 20241219  `20241219`	
