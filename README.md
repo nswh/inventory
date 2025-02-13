@@ -1,4 +1,4 @@
-## NSWHP Genomic Annotation Interpretation Application (GAIA) and GenPhen Atlas Inverntory List
+## NSWHP Genomic Annotation Interpretation Application (GAIA) and GenPhen Atlas Inventory List
 
 ### [GenPhen Atlas](http://192.168.106.139:8000/)
 
