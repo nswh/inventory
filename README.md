@@ -12,7 +12,7 @@
 
 For databases: 
 *     PTW_24_1021A onwards
-*     re-analysis
+*     re-analysis (only runs after POWH_21-566, include POWH_21-566 will have CNV result. Check OMNI for run number. )
 *     WGS
 
 ### GAIA 3.6.0 - for NovaSeq GRCh38/hg38 (release date 20240924) [What's New](./another-page_3.6.0.html)?
