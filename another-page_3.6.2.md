@@ -8,6 +8,8 @@ ClinVar update to 20250217  `20250301`
 
 ### * gaia-cromwell
 
+Versioning update for output json 3.6.2  `20250307`
+
 Setup WGS template.  `20250301`
 
 ### * gaia-shiny
