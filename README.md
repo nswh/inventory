@@ -6,6 +6,17 @@
 
 ### [Long-read Sequencing Reports (For testing ONLY!)](http://192.168.106.140:5001/)
 
+### GAIA 3.6.2 - for NovaSeq GRCh38/hg38 (release date 20250304) [What's New](./another-page_3.6.2.html)?
+
+[LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.6.2)](http://192.168.106.151:5880/)
+
+[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.6.2)](http://pilot.gaia.nswhp.com.au:5880/)
+
+For databases: 
+*     PTW_25_0224B onwards
+*     re-analysis (only runs after POWH_21-566, include POWH_21-566 will have CNV result. Check OMNI for run number. )
+*     WGS RGS_PRI14984 onwards
+
 ### GAIA 3.6.1 - for NovaSeq GRCh38/hg38 (release date 20241030) [What's New](./another-page_3.6.1.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.6.1)](http://192.168.106.151:5879/)
@@ -15,7 +26,7 @@
 For databases: 
 *     PTW_24_1021A onwards
 *     re-analysis (only runs after POWH_21-566, include POWH_21-566 will have CNV result. Check OMNI for run number. )
-*     WGS
+*     WGS RGS_ROW14511,RGS_PRI14778 onwards
 
 ### GAIA 3.6.0 - for NovaSeq GRCh38/hg38 (release date 20240924) [What's New](./another-page_3.6.0.html)?
 
