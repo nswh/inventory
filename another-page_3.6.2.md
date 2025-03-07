@@ -14,6 +14,8 @@ Setup WGS template.  `20250301`
 
 ### * gaia-shiny
 
+IUGR_PanelApp_panel.20250306  `20250307`
+
 Cardiomyopathy_MBS_73392_Plus_Arrhythmia_MBS_73416_Plus_Combined.20250306  `20250307`		
 
 Cardiomyopathy_MBS_73392_Plus.20250306  `20250307`	
