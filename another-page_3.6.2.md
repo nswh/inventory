@@ -12,6 +12,12 @@ Setup WGS template.  `20250301`
 
 ### * gaia-shiny
 
+Cardiomyopathy_MBS_73392_Plus_Arrhythmia_MBS_73416_Plus_Combined.20250306  `20250307`		
+
+Cardiomyopathy_MBS_73392_Plus.20250306  `20250307`	
+
+Arrhythmia_MBS_73416_Plus.20250306  `20250307`
+
 Correct URL for All of Us.  `20250305`
 
 All of Us URL change.  `20250305`
