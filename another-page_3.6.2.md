@@ -14,6 +14,10 @@ Setup WGS template.  `20250301`
 
 ### * gaia-shiny
 
+Display 2% for het/dominant when select no model.  `20250312`
+
+ID_EE_20250305  `20250312`
+
 IUGR_PanelApp_panel.20250306  `20250307`
 
 Cardiomyopathy_MBS_73392_Plus_Arrhythmia_MBS_73416_Plus_Combined.20250306  `20250307`		
