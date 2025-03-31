@@ -14,6 +14,8 @@ Setup WGS template.  `20250301`
 
 ### * gaia-shiny
 
+Request user to select the person for the HPO terms selected.  `20250331`
+
 Display 2% for het/dominant when select no model.  `20250312`
 
 ID_EE_20250305  `20250312`
