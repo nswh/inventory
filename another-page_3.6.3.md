@@ -1,0 +1,29 @@
+## What's New?
+
+GAIA v3.6.3 (release date 20250606)
+
+### * gaia-init-ref-files
+
+Update ClinVar to 20250601  `20250602`
+
+### * gaia-cromwell
+
+Update OMIM to 20250602  `20250602`
+
+### * pow-gaia-brain
+
+In the merge step, bgzip and tabix GAIA vcf file to reduce size for rapid on-the-spot process of LIRICAL subset.  `20250602`
+
+For TWIST panel V3, use Episode ID as GAIA database name, instead of use Family ID.  `20250602`
+
+### * gaia-shiny
+
+Fix no CNV in full.csv file, CNV symbol search GAIA break.  `20250602`
+
+Fix App disconnection no variants for a combination of gene sybmols and phenotypic terms.  `20250602`
+
+Add LIRICAL_rank to prioritize variant according to the HPO terms inputs by user.  `20250602`
+
+### For a detailed referece resource data please see either QC Metrics Report HTML file from analysis portal or [GAIA version](./another-page_3.6.3_GAIA_version.html)
+
+[back](./)
