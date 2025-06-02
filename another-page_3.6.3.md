@@ -12,6 +12,8 @@ Update OMIM to 20250602  `20250602`
 
 ### * pow-gaia-brain
 
+Detect non-paternity etc immediately after each run's databases creation.  `20250602`
+
 In the merge step, bgzip and tabix GAIA vcf file to reduce size for rapid on-the-spot process of LIRICAL subset.  `20250602`
 
 For TWIST panel V3, use Episode ID as GAIA database name, instead of use Family ID.  `20250602`
