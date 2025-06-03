@@ -8,6 +8,8 @@ Update ClinVar to 20250601  `20250602`
 
 ### * gaia-cromwell
 
+WGS output to 3.6.3  `20250603`
+
 Change output template to 3.6.3  `20250603`
 
 Update OMIM to 20250602  `20250602`
