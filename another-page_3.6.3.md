@@ -1,6 +1,6 @@
 ## What's New?
 
-GAIA v3.6.3 (release date 20250606)
+GAIA v3.6.3 (release date 20250605)
 
 ### * gaia-init-ref-files
 
