@@ -24,6 +24,10 @@ For TWIST panel V3, use Episode ID as GAIA database name, instead of use Family 
 
 ### * gaia-shiny
 
+Update IUIS gene panel  `20250610`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Fix no CNV in full.csv file, CNV symbol search GAIA break.  `20250602`
 
 Fix App disconnection no variants for a combination of gene sybmols and phenotypic terms.  `20250602`
