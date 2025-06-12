@@ -4,6 +4,8 @@ GAIA v3.6.3 (release date 20250605)
 
 ### * gaia-init-ref-files
 
+HGMD 2025Q1  `20250612`
+
 Update ClinVar to 20250601  `20250602`
 
 ### * gaia-cromwell
