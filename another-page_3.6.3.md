@@ -4,6 +4,8 @@ GAIA v3.6.3 (release date 20250605)
 
 ### * gaia-init-ref-files
 
+Change VCF header to 2025Q1  `20250612`
+
 Fix mysql socket problem  `20250612`
 
 HGMD 2025Q1  `20250612`
