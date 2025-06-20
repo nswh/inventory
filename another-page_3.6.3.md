@@ -28,6 +28,10 @@ Update OMIM to 20250602  `20250602`
 
 ### * pow-gaia-brain
 
+IGV tracks map clinvar  `20250620`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Detect non-paternity etc immediately after each run's databases creation.  `20250602`
 
 In the merge step, bgzip and tabix GAIA vcf file to reduce size for rapid on-the-spot process of LIRICAL subset.  `20250602`
