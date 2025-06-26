@@ -40,6 +40,8 @@ For TWIST panel V3, use Episode ID as GAIA database name, instead of use Family 
 
 ### * gaia-shiny
 
+Fix bug of WGS CNV query GENES is deliminated by comma, WES CNV query GENES is deliminated by semi colon.  `20250626`
+
 Update IUIS gene panel  `20250610`
 
 ----------------------------------------------------------------------------------------------------------------------------------------
