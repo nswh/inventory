@@ -4,7 +4,7 @@
 
 *  For trial only, include ~5000 samples sequenced on NovaSeq6000 from 2020 to early 2022
 
-### [Long-read Sequencing Reports (For testing ONLY!)](http://192.168.106.141:5001/)
+### [Long-read Sequencing Reports (For testing ONLY!)](http://192.168.106.139:5001/)
 
 ### GAIA 3.6.3 - for NovaSeq GRCh38/hg38 (release date 20250605) [What's New](./another-page_3.6.3.html)?
 
