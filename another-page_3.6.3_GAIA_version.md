@@ -58,6 +58,8 @@ NovaSeq Control Cohort	136 Samples (66 Male, 70 Female; 71 Mouth swab, 64 Blood,
 
 TWIST Baseline Cohort	79 Samples (37 Male, 42 Female; 71 Mouth swab, 7 Blood, 1 DNA)
 
+TWIST panel Baseline Cohort	56 Samples (28 Male, 28 Female)
+
 WES CNV CSV HPO annotations	2024.08.13
 
 WES/WGS CNV/SV CSV OMIM	2024.09.18
