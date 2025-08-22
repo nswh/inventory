@@ -28,6 +28,8 @@ Update OMIM to 20250602  `20250602`
 
 ### * pow-gaia-brain
 
+Add NA12878 bam track in cnv.xml file  `20250821`
+
 IGV tracks map family based joint gz VCF file  `20250729`
 
 IGV tracks map clinvar  `20250620`
