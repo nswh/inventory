@@ -66,4 +66,4 @@ many things
 
 many things of workflow change
 
-### For a detailed referece resource data please see either QC Metrics Report HTML file from analysis portal or [GAIA version](./another-page_3.6.3_GAIA_version.html)
+### For a detailed referece resource data please see either QC Metrics Report HTML file from analysis portal or [GAIA version](./another-page_3.7.0_GAIA_version.html)
