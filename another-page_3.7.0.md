@@ -8,6 +8,8 @@ Upgrade VEP version from 110 to 115 for gnomAD v4.1.  `20251125`
 
 ### * gaia-shiny
 
+Change gnomad_dominant filter for RCS from 0.002% to 0.02%  `20251126`
+
 Enable batches analysis by default select a database.	`20251122`
 
 categorize Illumina SpliceAI to NoScore, LowScore and >=0.2	`20251122`
