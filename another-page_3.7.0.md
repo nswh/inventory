@@ -58,11 +58,23 @@ Upgrade LIRICAL to 2.2.0	`20251006`
 
 ### * gaia-init-ref-files
 
-something
+CNV baseline upgrade for WES, panel and WGS	`20251127`
+
+Upgrade VEP 110-115 for HGNC gene symbol nomenclature.	`20251127`
+
+Upgrade CNV annotation only.	`20251127`
+
+Upgrade VEP 110-115	`20251127`
+
+Remove VEP 103-110 log	`20251127`
+
+Remove previous VEP 97-103-110 updates associated HGNC gene symbol nomenclature.	`20251127`
 
 ### * gaia-cromwell
 
-many things
+Change input and output to align with VEP 115  `20251127`
+
+Upgrade VEP 110-115  `20251127`
 
 ### * pow-gaia-brain
 
