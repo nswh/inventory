@@ -1,6 +1,6 @@
 ## What's New?
 
-GAIA v3.7.0 (release date 20251128)
+GAIA v3.7.0 (release date TBA)
 
 ### * gaia-annotate
 
