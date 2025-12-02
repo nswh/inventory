@@ -8,6 +8,12 @@ Upgrade VEP version from 110 to 115 for gnomAD v4.1.  `20251125`
 
 ### * gaia-shiny
 
+Remove gnomAD sub ethnic group AF filters.  `20251202`
+
+Increase number of hom_alt filter to 10  `20251202`
+
+Add Dominant AF filter 0.1% set  `20251202`
+
 Fix to display number of hom_alt count for autosome chromosome. Display gnomAD URL regardless of existence in db.  `20251202`
 
 Change gnomad_dominant filter for RCS from 0.002% to 0.02%  `20251126`
