@@ -1,6 +1,6 @@
 ## What's New?
 
-GAIA v3.7.0 (release date TBA)
+GAIA v3.7.0 (release date 20251211)
 
 ### * gaia-annotate
 
@@ -79,6 +79,10 @@ Remove VEP 103-110 log	`20251127`
 Remove previous VEP 97-103-110 updates associated HGNC gene symbol nomenclature.	`20251127`
 
 ### * gaia-cromwell
+
+Use equivalent FASTA for jc VCF normalisation to DRAGEN 4.3.6001  `20251220`
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Change input and output to align with VEP 115  `20251127`
 
