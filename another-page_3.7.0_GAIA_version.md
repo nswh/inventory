@@ -88,11 +88,13 @@ WGS CNV/SV CSV GENE	Homo_sapiens.GRCh38.115
 
 WGS CNV/SV ClinVar URL	2025.10	
 
+WGS mity  2.0.1
+
 HGNC nomenclature	2025-10-15
 
 Ancestry Estimate	somalier v0.3.0 (sites file gnomad.exomes.r2.1 were created from 1kg 2019-02-19)
 
 contamination estimation	VerifyBamID2 Version:2.0.1 (marker files were created from 1kg 2020-08-05)
 
-Variant Calling Assessment	RTG Tools 3.12.1
+Variant Calling Assessment	RTG Tools 3.13
 
