@@ -90,6 +90,8 @@ Upgrade VEP 110-115  `20251127`
 
 ### * pow-gaia-brain
 
-WGS mity 0.4.0 to 2.0.1
+WGS mity 0.4.0 to 2.0.1  `20251221`
+
+DRAGEN Enrichment/Germline/Joint 4.3.6001, Somatic 4.4.4002  `20251221`
 
 ### For a detailed referece resource data please see either QC Metrics Report HTML file from analysis portal or [GAIA version](./another-page_3.7.0_GAIA_version.html)
