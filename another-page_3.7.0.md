@@ -8,6 +8,14 @@ Upgrade VEP version from 110 to 115 for gnomAD v4.1.  `20251125`
 
 ### * gaia-shiny
 
+Add notes in PanelApp column, Mendeliome_exclIncidentalome_PanelAppAUS20250930.  `20260102`
+
+Updated Mendeliome_incidentalome_removed_Randwick gene list  `20260102`
+
+Removed 0.1% due to for testing. Now 0.002% for rare disease, 0.02% for RCS and cardiac, 2% for batch, and 100% for no filter.  `20260102`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Remove gnomAD sub ethnic group AF filters.  `20251202`
 
 Increase number of hom_alt filter to 10  `20251202`
