@@ -4,7 +4,7 @@
 
 *  For trial only, include ~5000 samples sequenced on NovaSeq6000 from 2020 to early 2022
 
-### [Long-read Sequencing Reports (For testing ONLY!)](http://192.168.106.139:5001/)
+### [AmpMap v1.1.0 - for Long-read Amplicon Sequencing Reports](http://192.168.106.139:5001/)
 
 ### GAIA 3.7.0 - for NovaSeq GRCh38/hg38 (release date 20251211) [What's New](./another-page_3.7.0.html)?
 
