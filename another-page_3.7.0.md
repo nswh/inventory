@@ -8,6 +8,8 @@ Upgrade VEP version from 110 to 115 for gnomAD v4.1.  `20251125`
 
 ### * gaia-shiny
 
+Fix qc_metrics.R to cooperate MSOS DRAGEN Somatic 4.4.4002 metrics output and add 500x coverage to be displayed.  `20260108`
+
 Add notes in PanelApp column, Mendeliome_exclIncidentalome_PanelAppAUS20250930.  `20260102`
 
 Updated Mendeliome_incidentalome_removed_Randwick gene list  `20260102`
