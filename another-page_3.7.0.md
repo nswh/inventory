@@ -74,6 +74,10 @@ Upgrade LIRICAL to 2.2.0	`20251006`
 
 ### * gaia-init-ref-files
 
+URL for Illumina BaseSpace FASTA download links  `20260108`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 CNV baseline upgrade for WES, panel and WGS	`20251127`
 
 Upgrade VEP 110-115 for HGNC gene symbol nomenclature.	`20251127`
