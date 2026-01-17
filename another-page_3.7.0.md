@@ -94,6 +94,8 @@ Remove previous VEP 97-103-110 updates associated HGNC gene symbol nomenclature.
 
 ### * gaia-cromwell
 
+Increase memory and cpu for WGS annotate  `20260117`
+
 Use equivalent FASTA for jc VCF normalisation to DRAGEN 4.3.6001  `20251220`
 
 ----------------------------------------------------------------------------------------------------------------------------------------
