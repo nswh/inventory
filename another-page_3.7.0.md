@@ -8,6 +8,22 @@ Upgrade VEP version from 110 to 115 for gnomAD v4.1.  `20251125`
 
 ### * gaia-shiny
 
+Put variant_samples het_samples hom_and_hemi_samples at the end of the GAIA output.	`20260204`
+
+GOTO_MasterMind hyperlink under MasterMind_mmid3 text.	`20260203`
+
+GOTO_ClinVar hyperlink under clinvar_clnsig text.	`20260203`
+
+Add Broad SpliceAI Hyperlink under Illumina SpliceAI score.	`20260202`
+
+POST GET from GenPhen Atlas, if 404/empty, not displaying GOTO_GenPhenAtlas.	`20260129`
+
+Use hitGenes to replace gene, add Randwick Mendliome Incidentalome, GOTO_PanelApp would take the matched gene symbol(s) in the hitGenes.	`20260108`
+
+gnomAD4 - check if data are provided and display number with hyperlink if possible	`20260108`
+
+Merge model and IGV in same cell and hyperlink underneath model.	`20260108`
+
 Fix qc_metrics.R to cooperate MSOS DRAGEN Somatic 4.4.4002 metrics output and add 500x coverage to be displayed.  `20260108`
 
 Add notes in PanelApp column, Mendeliome_exclIncidentalome_PanelAppAUS20250930.  `20260102`
