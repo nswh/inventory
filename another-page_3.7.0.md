@@ -8,6 +8,8 @@ Upgrade VEP version from 110 to 115 for gnomAD v4.1.  `20251125`
 
 ### * gaia-shiny
 
+Fix PubMed non-display due to Gene_hitGene merge. Now can search multiple gene symbols and PubMed term(s).  `20260206`
+
 Put variant_samples het_samples hom_and_hemi_samples at the end of the GAIA output.	`20260204`
 
 GOTO_MasterMind hyperlink under MasterMind_mmid3 text.	`20260203`
