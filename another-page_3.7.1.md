@@ -12,6 +12,6 @@ Reference metrics and internal AF updated according to TWIST exome V2.  `2026021
 
 ### * gaia-cromwell
 
-Reference metrics and internal AF updated according to TWIST exome V2.  `20260210`
+Prepare input/workflow template for TWIST exome V2  `20260211`
 
 ### For a detailed referece resource data please see either QC Metrics Report HTML file from analysis portal or [GAIA version](./another-page_3.7.1_GAIA_version.html)
