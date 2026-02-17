@@ -6,6 +6,15 @@
 
 ### [AmpMap v1.1.0 - for Long-read Amplicon Sequencing Reports](http://192.168.106.139:5001/)
 
+### GAIA 3.7.1 - for NovaSeq GRCh38/hg38 (release date March 2026 when exome V2 is ready) [What's New](./another-page_3.7.1.html)?
+
+[LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://192.168.106.151:5883/)
+
+[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://pilot.gaia.nswhp.com.au:5883/)
+
+For databases: 
+*     PTW_25_0915C_V2, PTW_25_1006B_V2 and exome V2 onwards
+
 ### GAIA 3.7.0 - for NovaSeq GRCh38/hg38 (release date 20251211) [What's New](./another-page_3.7.0.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.0)](http://192.168.106.151:5882/)
