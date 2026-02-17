@@ -4,6 +4,8 @@ GAIA v3.7.1 (release date TBA)
 
 ### * gaia-shiny
 
+Change coverage_vc_metrics.csv display to adapt MSOSv3 columns.  `20260217`
+
 Reference metrics and internal AF updated according to TWIST exome V2.  `20260210`
 
 ### * gaia-init-ref-files
