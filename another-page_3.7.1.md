@@ -4,6 +4,8 @@ GAIA v3.7.1 (release date TBA)
 
 ### * gaia-shiny
 
+Change lower and upper threshold in metrics plot according to SWS's threshold.  `20260312`
+
 Replace congenital_anomalies_renal_tract.20210113.txt with Congenital_Anomalies_Kidney_Urinary_Tract_PanelAppAUS_green_gold_v0.199.20260216.txt  `20260218`
 
 Change coverage_vc_metrics.csv display to adapt MSOSv3 columns.  `20260217`
