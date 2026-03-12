@@ -52,9 +52,9 @@ MasterMind	2024.01.03
 
 SpliceAI	genome_scores_v1.3
 
-NovaSeq Control Cohort	136 Samples (66 Male, 70 Female; 71 Mouth swab, 64 Blood, 1 DNA)
+NovaSeq Control Cohort	82 Samples (40 Male, 42 Female)
 
-TWIST Baseline Cohort	79 Samples (37 Male, 42 Female; 71 Mouth swab, 7 Blood, 1 DNA)
+TWIST Baseline Cohort	72 Samples (34 Male, 38 Female)
 
 WES CNV CSV HPO annotations	2025.09.01
 
