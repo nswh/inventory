@@ -1,6 +1,6 @@
 ## What's New?
 
-GAIA v3.7.1 (release date TBA)
+GAIA v3.7.1 (release date 20260312)
 
 ### * gaia-shiny
 
@@ -17,6 +17,10 @@ Reference metrics and internal AF updated according to TWIST exome V2.  `2026021
 Reference metrics and internal AF updated according to TWIST exome V2.  `20260210`
 
 ### * gaia-cromwell
+
+TWIST exome V2 template change.  `20260330`
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Prepare input/workflow template for TWIST exome V2  `20260211`
 
