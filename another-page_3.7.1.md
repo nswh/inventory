@@ -1,6 +1,6 @@
 ## What's New?
 
-GAIA v3.7.1 (release date 20260312)
+GAIA v3.7.1 (release date 20260313)
 
 ### * gaia-shiny
 
