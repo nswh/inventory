@@ -18,6 +18,8 @@ Reference metrics and internal AF updated according to TWIST exome V2.  `2026021
 
 ### * gaia-cromwell
 
+Change GAIA output version for WGS  `20260331`
+
 TWIST exome V2 template change.  `20260330`
 
 ----------------------------------------------------------------------------------------------------------------------------------------
