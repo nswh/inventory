@@ -4,6 +4,12 @@ GAIA v3.7.1 (release date 20260313)
 
 ### * gaia-shiny
 
+Add back in explanation in PLINK Sex estimate of the F-value.  `20260415`	
+
+Add back in 0.1% for gnomAD in line with SOP.  `20260415`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Change lower and upper threshold in metrics plot according to SWS's threshold.  `20260312`
 
 Replace congenital_anomalies_renal_tract.20210113.txt with Congenital_Anomalies_Kidney_Urinary_Tract_PanelAppAUS_green_gold_v0.199.20260216.txt  `20260218`
