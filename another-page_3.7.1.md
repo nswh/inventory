@@ -4,6 +4,8 @@ GAIA v3.7.1 (release date 20260313)
 
 ### * gaia-shiny
 
+Fix the PubMed 0 issue. Use E Utility instead of web scrape.  `20260430`
+
 Add back in explanation in PLINK Sex estimate of the F-value.  `20260415`	
 
 Add back in 0.1% for gnomAD in line with SOP.  `20260415`
