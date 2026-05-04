@@ -44,6 +44,8 @@ For TWIST panel V3, use Episode ID as GAIA database name, instead of use Family 
 
 ### * gaia-shiny
 
+Fix the PubMed 0 issue. Use E Utility instead of web scrape.  `20260504`
+
 Update Overgrowth.20250906.txt  `20250922`
 
 Replace IUGR_PanelApp_panel.20250306.txt with GrowthFailAUS1.78plusIUGRUK1.69.20250826.txt; Update to CranioFacial_UK_PanelApp.20250820.txt  `20250826`
