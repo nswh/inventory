@@ -6,6 +6,8 @@
 
 ### [AmpMap v1.1.0 - for Long-read Amplicon Sequencing Reports](http://192.168.106.139:5001/)
 
+### [Long Read WGS - sample inventory](http://192.168.106.136:5001/)
+
 ### GAIA 3.7.1 - for NovaSeq GRCh38/hg38 (release date 20260313) [What's New](./another-page_3.7.1.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://192.168.106.151:5883/)
