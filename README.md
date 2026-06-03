@@ -41,16 +41,30 @@ For databases:
 *     re-analysis (only runs after POWH_21-566, include POWH_21-566 will have CNV result. Check OMNI for run number. )
 *     WGS RGS_PRI15467 onwards
 
-### GAIA 3.5.2 - for NovaSeq GRCh38/hg38 (release date 20240110) [What's New](./another-page_3.5.2.html)?
-
-[LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.2)](http://192.168.106.151:5875/)
-
-[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.5.2)](http://pilot.gaia.nswhp.com.au:5875/)
-
-For databases: 
-*     PTW_24_0101A onwards
-*     Training WES cases
-*     WES & WGS re-analysis
+| Run | GAIA | DRAGEN | TWISTexome/MSOS version | reference genome |
+|-----|------|--------|-------------------------|------------------|
+| TWIST exome and panel | PTW_25_1117B | 3.7.0 and 3.6.3 | 3.10.4 | V1 | hg38noHLA |
+| | PTW_25_1124A | 3.7.0 and 3.6.3 | 3.10.4 | V1 | |
+| | PTW_25_1201A | 3.7.0 and 3.6.3 | 3.10.4 | V1 | |
+| | PTW_25_1201B | 3.7.0 and 3.6.3 | 3.10.4 | V1 | |
+| | PTW_25_1208A | 3.7.0 only | 4.3.6001 | V1 | 1KGhg38v4 |
+| | PTW_25_1215A | 3.7.0 only | 4.3.6001 | V1 | |
+| | PTW_25_1222A_02 | 3.7.0 only | 4.3.6001 | V1 | |
+| | PTW_25_1229A | 3.7.0 only | 4.3.6001 | V1 | |
+| | PTW_26_0105A | 3.7.0 only | 4.3.6001 | V1 | |
+| | PTW_26_0105B | 3.7.0 only | 4.3.6001 | V1 | |
+| | PTW_26_0112A_2 | 3.7.0 only | 4.3.6001 | V1 | |
+| | PTW_26_0119A | 3.7.0 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V1 | |
+| | PTW_26_0126A | 3.7.0 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V1 | |
+| | PTW_26_0202A | 3.7.0 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V1 | |
+| | … | 3.7.0 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V1 | |
+| | PTW_26_0223A | 3.7.0 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V1 | |
+| | PTW_26_0302A | 3.7.1 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V2 | |
+| | PTW_26_0309B | 3.7.1 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V2 | |
+| | PTW_26_0309A | 3.7.1 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V2 | |
+| | PTW_26_0316A | 3.7.1 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V2 | |
+| | PTW_26_0316B_02 | 3.7.0 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V1 | |
+| | … | 3.7.1 only | 4.3.6001_noML for exome, 4.3.6001 for panel | V2 | |
 
 ### POWH BaseSpaces WorkGroup
 
