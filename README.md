@@ -8,7 +8,7 @@
 
 ### [Long Read WGS - sample inventory](http://192.168.106.136:5001/)
 
-### [GAIA 3.7.1.lr - for Long Read WGS] (http://192.168.106.151:5884/)
+### [GAIA 3.7.1.lr - for Long Read WGS](http://192.168.106.151:5884/)
 
 ### GAIA 3.7.1 - for NovaSeq GRCh38/hg38 (release date 20260313) [What's New](./another-page_3.7.1.html)?
 
