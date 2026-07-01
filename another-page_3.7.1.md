@@ -4,8 +4,6 @@ GAIA v3.7.1 (release date 20260313)
 
 ### * gaia-shiny
 
-Make UI and sqliteDB column to either tolerate WES or WGS ONT.  `20260701`
-
 Fix the code to represent Mendeliome_Randwick.YYYYMMDD.txt for any future updates.  `20260506`
 
 Update Mendeliome panel and Mendeliome minus Incidentalome panel  `20260505`
