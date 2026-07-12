@@ -10,6 +10,8 @@
 
 ### GAIA 3.7.1 - for NovaSeq GRCh38/hg38 (release date 20260313) [What's New](./another-page_3.7.1.html)?
 
+[LAB BACKUP - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://192.168.106.139:5883/)
+
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://192.168.106.151:5883/)
 
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://pilot.gaia.nswhp.com.au:5883/)
