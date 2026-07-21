@@ -12,6 +12,8 @@
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://192.168.106.151:5883/)
 
+[LAB BACKUP - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://192.168.106.139:5883/)
+
 [CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://pilot.gaia.nswhp.com.au:5883/)
 
 For databases: 
