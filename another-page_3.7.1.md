@@ -4,6 +4,8 @@ GAIA v3.7.1 (release date 20260313)
 
 ### * gaia-shiny
 
+Add RNU genes in the drop down genelist.   `20260728`
+
 Update ID EE  `20260701`
 
 Fix the code to represent Mendeliome_Randwick.YYYYMMDD.txt for any future updates.  `20260506`
