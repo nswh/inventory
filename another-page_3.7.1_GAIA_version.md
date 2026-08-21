@@ -1,6 +1,6 @@
 Database/Tool	Version
 
-GAIA	v3.7.0
+GAIA	v3.7.1
 
 Reference genome	GRCh38 / HG38
 
@@ -72,21 +72,21 @@ WES CNV gnomAD SVs	RealTime
 
 WES CNV hgmd CNV	2025Q1
 
-WGS CNV/SV 1000 Genomes Consortium Phase 3 Integrated SV	estd219
+WGS CNV/SV IGV 1000 Genomes Consortium Phase 3 Integrated SV	estd219 (IGV track: 1kG_estd219.igv.bed.gz)
 
-WGS CNV/SV GENE	Homo_sapiens.GRCh38.115
+WGS CNV/SV IGV GENE Homo_sapiens.GRCh38.99 (IGV track: Homo_sapiens.GRCh38.99.gff.gz)
 
-WGS CNV/SV HPO annotations	2025.09.01
+WGS CNV/SV CSV GENE     Homo_sapiens.GRCh38.103 (for mapping the SV regions to OMIM gene)
 
-WGS CNV/SV MGRB-SV	2020.06.28
+WGS CNV/SV IGV MGRB-SV	2020.06.28 (IGV track: MGRB-SV.bed.gz)
 
-WGS CNV/SV PHEN (DDG2P/OMIM/Orphanet)	2025.10
+WGS CNV/SV CSV PHEN (DDG2P/OMIM/Orphanet)	2024.12.02
+
+WGS CNV/SV CSV GNOMADSV2	nstd166.GRCh38.variant_call.bed (CSV annotation for GNOMADSV2_AF,GNOMADSV2_AMR_AF,GNOMADSV2_EAS_AF,GNOMADSV2_EUR_AF,GNOMADSV2_OTH_AF)
 
 WGS CNV/SV CALL BED	gnomad.v4.1.sv.non_neuro_controls.sites
 
-WGS CNV/SV CSV GENE	Homo_sapiens.GRCh38.115
-
-WGS CNV/SV ClinVar URL	2025.10	
+WGS CNV/SV CSV ClinVar URL	clinvar_cnv_202101.bed (for mapping the SV region to clinvar CNV to get the variant ID for the URL)	
 
 WGS mity	2.0.1
 
@@ -97,3 +97,4 @@ Ancestry Estimate	somalier v0.3.0 (sites file gnomad.exomes.r2.1 were created fr
 contamination estimation	VerifyBamID2 Version:2.0.1 (marker files were created from 1kg 2020-08-05)
 
 Variant Calling Assessment	RTG Tools 3.13
+
