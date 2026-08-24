@@ -30,9 +30,23 @@ Reference metrics and internal AF updated according to TWIST exome V2.  `2026021
 
 ### * gaia-init-ref-files
 
+HGMD 2026Q2 for vcd header  `20260817`
+
+HGMD 2026Q2  `20260817`
+
+expand ONT to 40 and masked out reported variants  `20260817`
+
+Add ONT Long Read WGS Control Cohort AF  `20260326`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Updated gaia-data list for migration in cloud  `20260224`
+
 Reference metrics and internal AF updated according to TWIST exome V2.  `20260210`
 
 ### * gaia-cromwell
+
+Update HGMD to 2026Q2  `20260824`
 
 Change GAIA output version for WGS  `20260331`
 
