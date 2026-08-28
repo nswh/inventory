@@ -72,6 +72,8 @@ WES CNV gnomAD SVs	RealTime
 
 WES CNV hgmd CNV	2025Q1
 
+WES CNV Randwick CNV track in IGV	The sample size of TWIST exome v1 is ~13000 and v2 is ~1700
+
 WGS CNV/SV IGV 1000 Genomes Consortium Phase 3 Integrated SV	estd219 (IGV track: 1kG_estd219.igv.bed.gz)
 
 WGS CNV/SV IGV GENE Homo_sapiens.GRCh38.99 (IGV track: Homo_sapiens.GRCh38.99.gff.gz)
