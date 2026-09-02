@@ -72,7 +72,7 @@ WES CNV gnomAD SVs	RealTime
 
 WES CNV hgmd CNV	2025Q1
 
-WES CNV Randwick CNV track in IGV	The sample size of TWISTexomeV1-13494, TWISTexomeV2-1581, TWISTpanelV1-2345, TWISTpanelV2-1588, TWISTpanelV3-3760
+WES CNV Randwick CNV track in IGV	The sample size of TWISTexomeV1-13494, TWISTexomeV2-1581(20260902)growing, TWISTpanelV1-2345, TWISTpanelV2-1588, TWISTpanelV3-3760(20260902)growing
 
 WGS CNV/SV IGV 1000 Genomes Consortium Phase 3 Integrated SV	estd219 (IGV track: 1kG_estd219.igv.bed.gz)
 
