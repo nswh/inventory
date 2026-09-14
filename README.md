@@ -1,6 +1,8 @@
 ## NSWHP Genomic Annotation Interpretation Application (GAIA) and GenPhen Atlas Inventory List
 
-### [GenPhen Atlas](http://192.168.106.139:8000/)
+### [GenPhen Atlas LAB](http://192.168.106.139:8000/)
+
+### [GenPhen Atlas CLOUD](https://genphen-atlas.dev.nswhp.com.au/)
 
 *  For trial only, include ~5000 samples sequenced on NovaSeq6000 from 2020 to early 2022
 
@@ -8,17 +10,20 @@
 
 ### [Long Read WGS - sample inventory](http://192.168.106.136:5001/)
 
-### GAIA 3.7.2 - for Long Read WGS TEST!!!
+### GAIA 3.7.2 - TEST ONLY!!! (release date TBA) [What's New](./another-page_3.7.2.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.2)](http://192.168.106.151:5884/)
+
+For databases: 
+*     PTW_26_09XXA onwards
+*     re-analysis (only runs after POWH_21-566, include POWH_21-566 will have CNV result. Check OMNI for run number. )
+*     WGS and LRWGS
 
 ### GAIA 3.7.1 - for NovaSeq GRCh38/hg38 (release date 20260313) [What's New](./another-page_3.7.1.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://192.168.106.151:5883/)
 
-[LAB BACKUP - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://192.168.106.139:5883/)
-
-[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://pilot.gaia.nswhp.com.au:5883/)
+[CLOUD DEVELOPMENT - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](https://gaia.dev.nswhp.com.au/)
 
 For databases: 
 *     PTW_25_0915C_V2, PTW_25_1006B_V2 and PTW_26_0302A onwards
