@@ -10,6 +10,8 @@ Change SLHD to LRWGS and adapt internal AC to ONT, reference metrics to ONT acco
 
 ### * gaia-init-ref-files
 
+Synchronise OMIM and ClinVar download to CNV annotation  `20260923`
+
 Updated ClinVar and OMIM  `20260923`
 
 ### * gaia-cromwell
