@@ -8,4 +8,12 @@ Allow LRWGS to download .zip w/o check cnv.xml; rectify CNV/SV to include mito, 
 
 Change SLHD to LRWGS and adapt internal AC to ONT, reference metrics to ONT according to user selection.  `20260910`
 
+### * gaia-init-ref-files
+
+Updated ClinVar and OMIM  `20260923`
+
+### * gaia-cromwell
+
+Updated ClinVar and OMIM  `20260923`
+
 ### For a detailed reference resource data please see either QC Metrics Report HTML file from analysis portal or [GAIA version](./another-page_3.7.2_GAIA_version.html)
