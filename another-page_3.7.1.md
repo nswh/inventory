@@ -4,6 +4,8 @@ GAIA v3.7.1 (release date 20260313)
 
 ### * gaia-shiny
 
+In CNV csv file, the UCSC track should expand for OMIM, omimGene2=pack& to omimContainer=show&omimGene2=pack&omimAvSnp=pack&  `20261006`
+
 Add RNU genes in the drop down genelist.   `20260728`
 
 Update ID EE  `20260701`
