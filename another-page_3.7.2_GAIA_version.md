@@ -22,7 +22,7 @@ HGMD    2025Q1
 
 ClinVar (VEP)	2025-02
 
-ClinVar Weekly
+ClinVar 20261025
 
 1000 Genomes	Phase 3 (remapped)
 
@@ -32,7 +32,7 @@ gnomAD genomes (VEP)	v4.1
 
 dbNSFP	5.3a (Interpro_domain,phyloP100way_vertebrate,MutPred2_score,MutPred2_rankscore,MutPred2_pred,MutPred2_top5_mechanisms,MutScore_score,MutScore_rankscore)
 
-OMIM	Daily
+OMIM	20261013
 
 MANE	v1.5
 
