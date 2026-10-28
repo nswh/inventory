@@ -10,16 +10,16 @@
 
 ### [Long Read WGS - sample inventory](http://192.168.106.136:5001/)
 
-### GAIA 3.7.2 - TEST ONLY!!! (release date TBA) [What's New](./another-page_3.7.2.html)?
+### GAIA 3.7.2 - for GRCh38/hg38 (release date 20261030) [What's New](./another-page_3.7.2.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.2)](http://192.168.106.151:5884/)
 
 For databases: 
-*     PTW_26_09XXA onwards
+*     PTW_26_1019A onwards
 *     re-analysis (only runs after POWH_21-566, include POWH_21-566 will have CNV result. Check OMNI for run number. )
 *     WGS and LRWGS
 
-### GAIA 3.7.1 - for NovaSeq GRCh38/hg38 (release date 20260313) [What's New](./another-page_3.7.1.html)?
+### GAIA 3.7.1 - for GRCh38/hg38 (release date 20260313) [What's New](./another-page_3.7.1.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.1)](http://192.168.106.151:5883/)
 
@@ -30,7 +30,7 @@ For databases:
 *     re-analysis (only runs after POWH_21-566, include POWH_21-566 will have CNV result. Check OMNI for run number. )
 *     WGS from AGRF once validated
 
-### GAIA 3.7.0 - for NovaSeq GRCh38/hg38 (release date 20251211) [What's New](./another-page_3.7.0.html)?
+### GAIA 3.7.0 - for GRCh38/hg38 (release date 20251211) [What's New](./another-page_3.7.0.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.7.0)](http://192.168.106.151:5882/)
 
@@ -41,7 +41,7 @@ For databases:
 *     re-analysis (only runs after POWH_21-566, include POWH_21-566 will have CNV result. Check OMNI for run number. )
 *     WGS RGS_PRI15800 for re-analysis
 
-### GAIA 3.6.3 - for NovaSeq GRCh38/hg38 (release date 20250605) [What's New](./another-page_3.6.3.html)?
+### GAIA 3.6.3 - for GRCh38/hg38 (release date 20250605) [What's New](./another-page_3.6.3.html)?
 
 [LAB PRODUCTION - Genomics Annotation Interpretation Analysis pipeline (GAIA 3.6.3)](http://192.168.106.151:5881/)
 
