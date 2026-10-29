@@ -4,6 +4,10 @@ GAIA v3.7.2 (release date 20261030)
 
 ### * gaia-shiny
 
+Fix the PanelAPP_Mendeliome_with_Incidentalome and Mendeliome_Randwick columns, plus additional PanelApp AUS_Common deleUon and duplicaUon syndromes (Version 1.7) in CNV csv file  `20261029`
+
+Update to Fetal_non-immune_hydrops.20230920.txt  `20261029`
+
 Allow LRWGS to download .zip w/o check cnv.xml; rectify CNV/SV to include mito, methy and STR; Replace batch under CNV to longititudual DEL/DUP.  `20260914`
 
 Change SLHD to LRWGS and adapt internal AC to ONT, reference metrics to ONT according to user selection.  `20260910`
