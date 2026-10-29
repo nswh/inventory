@@ -26,6 +26,12 @@ GAIA version change to 3.7.2  `20261028`
 
 Updated ClinVar and OMIM  `20260923`
 
+### * pow-gaia-brain
+
+Remove intra caller for Exome, WGS ClinSV.  `20261029`
+
+Future ClinVar and OMIM routine update w/o verification. add drug response bring back CFTR batch only, remove Machine Learning from DRAGEN 4.3.6001 for TWIST panel.  `20261029`
+
 ### * gaia-writesql
 
 something to solve too many rows in SQL
