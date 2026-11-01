@@ -22,6 +22,10 @@ Updated ClinVar and OMIM  `20260923`
 
 ### * gaia-cromwell
 
+Fix too many SQL for WGS coverage metrics  `20261101`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 GAIA version change to 3.7.2  `20261028`
 
 Updated ClinVar and OMIM  `20260923`
@@ -34,6 +38,10 @@ Future ClinVar and OMIM routine update w/o verification. add drug response bring
 
 ### * gaia-writesql
 
-something to solve too many rows in SQL
+Fix RSQLite package installation. Use sealsgenetics/gaia-writesql:3.0.1 as base image.  `20261101`
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Fix too many SQL for WGS coverage metrics  `20261030`
 
 ### For a detailed reference resource data please see either QC Metrics Report HTML file from analysis portal or [GAIA version](./another-page_3.7.2_GAIA_version.html)
