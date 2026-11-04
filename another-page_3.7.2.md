@@ -38,6 +38,8 @@ Future ClinVar and OMIM routine update w/o verification. add drug response bring
 
 ### * gaia-writesql
 
+Fix the Inf in low_cov write into .db  `20261104`
+
 Fix RSQLite package installation. Use sealsgenetics/gaia-writesql:3.0.1 as base image.  `20261101`
 
 ----------------------------------------------------------------------------------------------------------------------------------------
