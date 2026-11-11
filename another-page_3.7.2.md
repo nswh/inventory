@@ -4,6 +4,8 @@ GAIA v3.7.2 (release date 20261030)
 
 ### * gaia-shiny
 
+Updated QC metrics for LRWGS  `20261111`
+
 Fix the PanelAPP_Mendeliome_with_Incidentalome and Mendeliome_Randwick columns, plus additional PanelApp AUS_Common deleUon and duplicaUon syndromes (Version 1.7) in CNV csv file  `20261029`
 
 Update to Fetal_non-immune_hydrops.20230920.txt  `20261029`
