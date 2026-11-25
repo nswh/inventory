@@ -4,6 +4,8 @@ GAIA v3.7.2 (release date 20261030)
 
 ### * gaia-shiny
 
+Use Long Read's sex.check and NS SS value  `20261125`
+
 Remove web IGV since it is no longer available.  `20261117`
 
 Updated QC metrics for LRWGS  `20261111`
