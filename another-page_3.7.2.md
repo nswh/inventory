@@ -18,6 +18,8 @@ Change SLHD to LRWGS and adapt internal AC to ONT, reference metrics to ONT acco
 
 ### * gaia-init-ref-files
 
+Use Long Read's sex.check and NS SS value  `20261125`
+
 ClinVar 20261025 and OMIM 20261013 update  `20261027`
 
 Synchronise OMIM and ClinVar download to CNV annotation  `20260923`
